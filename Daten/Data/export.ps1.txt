@@ -1,0 +1,26 @@
+$database = "Adventure Works DW 2020"
+$server = "localhost\SQLEXPRESS"
+$path = "C:\Users\vince\OneDrive\Kurse\BDA_28201055\Dateiein\Data\ssms_export\"
+
+# Ordner erstellen, falls nicht vorhanden
+if (!(Test-Path $path)) { New-Item -ItemType Directory -Path $path | Out-Null }
+
+# Alle Tabellen holen
+$tables = Invoke-Sqlcmd -ServerInstance $server -Database $database -Query "
+SELECT TABLE_SCHEMA + '.' + TABLE_NAME AS FullName
+FROM INFORMATION_SCHEMA.TABLES
+WHERE TABLE_TYPE = 'BASE TABLE'
+"
+
+foreach ($t in $tables) {
+    $table = $t.FullName
+    $clean = $table.Replace('.', '_')
+    $file = "$path\$clean.csv"
+
+    Write-Host "Exportiere $table -> $file ..."
+
+    Invoke-Sqlcmd -ServerInstance $server -Database $database -Query "SELECT * FROM $table" |
+        Export-Csv -Path $file -NoTypeInformation -Encoding UTF8
+}
+
+Write-Host "FERTIG! Alle Tabellen wurden exportiert."

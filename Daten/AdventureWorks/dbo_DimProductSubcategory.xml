@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2026-03-06T19:02:21">
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>1</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>1</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Mountain Bikes</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Bicicleta de montaña</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>VTT</FrenchProductSubcategoryName>
+<ProductCategoryKey>1</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>2</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>2</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Road Bikes</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Bicicleta de carretera</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Vélo de route</FrenchProductSubcategoryName>
+<ProductCategoryKey>1</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>3</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>3</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Touring Bikes</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Bicicleta de paseo</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Vélo de randonnée</FrenchProductSubcategoryName>
+<ProductCategoryKey>1</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>4</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>4</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Handlebars</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Barra</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Barre d&apos;appui</FrenchProductSubcategoryName>
+<ProductCategoryKey>2</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>5</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>5</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Bottom Brackets</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Eje de pedalier</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Axe de pédalier</FrenchProductSubcategoryName>
+<ProductCategoryKey>2</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>6</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>6</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Brakes</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Frenos</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Freins</FrenchProductSubcategoryName>
+<ProductCategoryKey>2</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>7</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>7</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Chains</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Cadena</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Chaîne</FrenchProductSubcategoryName>
+<ProductCategoryKey>2</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>8</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>8</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Cranksets</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Bielas</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Pédalier</FrenchProductSubcategoryName>
+<ProductCategoryKey>2</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>9</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>9</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Derailleurs</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Desviador</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Dérailleur</FrenchProductSubcategoryName>
+<ProductCategoryKey>2</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>10</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>10</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Forks</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Horquilla</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Fourche</FrenchProductSubcategoryName>
+<ProductCategoryKey>2</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>11</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>11</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Headsets</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Dirección</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Jeu de direction</FrenchProductSubcategoryName>
+<ProductCategoryKey>2</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>12</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>12</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Mountain Frames</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Cuadro de montaña</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Cadre de VTT</FrenchProductSubcategoryName>
+<ProductCategoryKey>2</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>13</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>13</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Pedals</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Pedal</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Pédale</FrenchProductSubcategoryName>
+<ProductCategoryKey>2</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>14</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>14</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Road Frames</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Cuadro de carretera</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Cadre de vélo de route</FrenchProductSubcategoryName>
+<ProductCategoryKey>2</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>15</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>15</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Saddles</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Sillín</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Selle</FrenchProductSubcategoryName>
+<ProductCategoryKey>2</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>16</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>16</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Touring Frames</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Cuadro de paseo</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Cadre de vélo de randonnée</FrenchProductSubcategoryName>
+<ProductCategoryKey>2</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>17</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>17</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Wheels</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Rueda</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Roue</FrenchProductSubcategoryName>
+<ProductCategoryKey>2</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>18</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>18</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Bib-Shorts</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Culote corto</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Cuissards avec bretelles</FrenchProductSubcategoryName>
+<ProductCategoryKey>3</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>19</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>19</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Caps</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Gorra</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Casquette</FrenchProductSubcategoryName>
+<ProductCategoryKey>3</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>20</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>20</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Gloves</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Guantes</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Gants</FrenchProductSubcategoryName>
+<ProductCategoryKey>3</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>21</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>21</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Jerseys</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Jersey</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Maillot</FrenchProductSubcategoryName>
+<ProductCategoryKey>3</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>22</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>22</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Shorts</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Pantalones cortos</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Cuissards</FrenchProductSubcategoryName>
+<ProductCategoryKey>3</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>23</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>23</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Socks</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Calcetines</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Chaussettes</FrenchProductSubcategoryName>
+<ProductCategoryKey>3</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>24</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>24</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Tights</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Mallas</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Collants</FrenchProductSubcategoryName>
+<ProductCategoryKey>3</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>25</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>25</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Vests</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Camiseta</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Veste</FrenchProductSubcategoryName>
+<ProductCategoryKey>3</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>26</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>26</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Bike Racks</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Portabicicletas</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Porte-vélo</FrenchProductSubcategoryName>
+<ProductCategoryKey>4</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>27</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>27</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Bike Stands</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Soporte para bicicletas</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Range-vélo</FrenchProductSubcategoryName>
+<ProductCategoryKey>4</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>28</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>28</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Bottles and Cages</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Portabotellas y botella</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Bidon et porte-bidon</FrenchProductSubcategoryName>
+<ProductCategoryKey>4</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>29</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>29</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Cleaners</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Limpiador</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Nettoyant</FrenchProductSubcategoryName>
+<ProductCategoryKey>4</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>30</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>30</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Fenders</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Guardabarros</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Garde-boue</FrenchProductSubcategoryName>
+<ProductCategoryKey>4</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>31</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>31</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Helmets</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Casco</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Casque</FrenchProductSubcategoryName>
+<ProductCategoryKey>4</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>32</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>32</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Hydration Packs</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Sistema de hidratación</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Sac d&apos;hydratation</FrenchProductSubcategoryName>
+<ProductCategoryKey>4</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>33</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>33</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Lights</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Luz</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Éclairage</FrenchProductSubcategoryName>
+<ProductCategoryKey>4</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>34</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>34</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Locks</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Candado</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Antivol</FrenchProductSubcategoryName>
+<ProductCategoryKey>4</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>35</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>35</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Panniers</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Cesta</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Sacoche</FrenchProductSubcategoryName>
+<ProductCategoryKey>4</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>36</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>36</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Pumps</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Bomba</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Pompe</FrenchProductSubcategoryName>
+<ProductCategoryKey>4</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+<dbo_DimProductSubcategory>
+<ProductSubcategoryKey>37</ProductSubcategoryKey>
+<ProductSubcategoryAlternateKey>37</ProductSubcategoryAlternateKey>
+<EnglishProductSubcategoryName>Tires and Tubes</EnglishProductSubcategoryName>
+<SpanishProductSubcategoryName>Cubierta y cámara</SpanishProductSubcategoryName>
+<FrenchProductSubcategoryName>Pneu et chambre à air</FrenchProductSubcategoryName>
+<ProductCategoryKey>4</ProductCategoryKey>
+</dbo_DimProductSubcategory>
+</dataroot>

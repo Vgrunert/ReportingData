@@ -1,0 +1,4002 @@
+[
+    {
+        "DateKey": "20170701",
+        "FullDateAlternateKey": "2017-07-01"
+    },
+    {
+        "DateKey": "20170702",
+        "FullDateAlternateKey": "2017-07-02"
+    },
+    {
+        "DateKey": "20170703",
+        "FullDateAlternateKey": "2017-07-03"
+    },
+    {
+        "DateKey": "20170704",
+        "FullDateAlternateKey": "2017-07-04"
+    },
+    {
+        "DateKey": "20170705",
+        "FullDateAlternateKey": "2017-07-05"
+    },
+    {
+        "DateKey": "20170706",
+        "FullDateAlternateKey": "2017-07-06"
+    },
+    {
+        "DateKey": "20170707",
+        "FullDateAlternateKey": "2017-07-07"
+    },
+    {
+        "DateKey": "20170708",
+        "FullDateAlternateKey": "2017-07-08"
+    },
+    {
+        "DateKey": "20170709",
+        "FullDateAlternateKey": "2017-07-09"
+    },
+    {
+        "DateKey": "20170710",
+        "FullDateAlternateKey": "2017-07-10"
+    },
+    {
+        "DateKey": "20170711",
+        "FullDateAlternateKey": "2017-07-11"
+    },
+    {
+        "DateKey": "20170712",
+        "FullDateAlternateKey": "2017-07-12"
+    },
+    {
+        "DateKey": "20170713",
+        "FullDateAlternateKey": "2017-07-13"
+    },
+    {
+        "DateKey": "20170714",
+        "FullDateAlternateKey": "2017-07-14"
+    },
+    {
+        "DateKey": "20170715",
+        "FullDateAlternateKey": "2017-07-15"
+    },
+    {
+        "DateKey": "20170716",
+        "FullDateAlternateKey": "2017-07-16"
+    },
+    {
+        "DateKey": "20170717",
+        "FullDateAlternateKey": "2017-07-17"
+    },
+    {
+        "DateKey": "20170718",
+        "FullDateAlternateKey": "2017-07-18"
+    },
+    {
+        "DateKey": "20170719",
+        "FullDateAlternateKey": "2017-07-19"
+    },
+    {
+        "DateKey": "20170720",
+        "FullDateAlternateKey": "2017-07-20"
+    },
+    {
+        "DateKey": "20170721",
+        "FullDateAlternateKey": "2017-07-21"
+    },
+    {
+        "DateKey": "20170722",
+        "FullDateAlternateKey": "2017-07-22"
+    },
+    {
+        "DateKey": "20170723",
+        "FullDateAlternateKey": "2017-07-23"
+    },
+    {
+        "DateKey": "20170724",
+        "FullDateAlternateKey": "2017-07-24"
+    },
+    {
+        "DateKey": "20170725",
+        "FullDateAlternateKey": "2017-07-25"
+    },
+    {
+        "DateKey": "20170726",
+        "FullDateAlternateKey": "2017-07-26"
+    },
+    {
+        "DateKey": "20170727",
+        "FullDateAlternateKey": "2017-07-27"
+    },
+    {
+        "DateKey": "20170728",
+        "FullDateAlternateKey": "2017-07-28"
+    },
+    {
+        "DateKey": "20170729",
+        "FullDateAlternateKey": "2017-07-29"
+    },
+    {
+        "DateKey": "20170730",
+        "FullDateAlternateKey": "2017-07-30"
+    },
+    {
+        "DateKey": "20170731",
+        "FullDateAlternateKey": "2017-07-31"
+    },
+    {
+        "DateKey": "20170801",
+        "FullDateAlternateKey": "2017-08-01"
+    },
+    {
+        "DateKey": "20170802",
+        "FullDateAlternateKey": "2017-08-02"
+    },
+    {
+        "DateKey": "20170803",
+        "FullDateAlternateKey": "2017-08-03"
+    },
+    {
+        "DateKey": "20170804",
+        "FullDateAlternateKey": "2017-08-04"
+    },
+    {
+        "DateKey": "20170805",
+        "FullDateAlternateKey": "2017-08-05"
+    },
+    {
+        "DateKey": "20170806",
+        "FullDateAlternateKey": "2017-08-06"
+    },
+    {
+        "DateKey": "20170807",
+        "FullDateAlternateKey": "2017-08-07"
+    },
+    {
+        "DateKey": "20170808",
+        "FullDateAlternateKey": "2017-08-08"
+    },
+    {
+        "DateKey": "20170809",
+        "FullDateAlternateKey": "2017-08-09"
+    },
+    {
+        "DateKey": "20170810",
+        "FullDateAlternateKey": "2017-08-10"
+    },
+    {
+        "DateKey": "20170811",
+        "FullDateAlternateKey": "2017-08-11"
+    },
+    {
+        "DateKey": "20170812",
+        "FullDateAlternateKey": "2017-08-12"
+    },
+    {
+        "DateKey": "20170813",
+        "FullDateAlternateKey": "2017-08-13"
+    },
+    {
+        "DateKey": "20170814",
+        "FullDateAlternateKey": "2017-08-14"
+    },
+    {
+        "DateKey": "20170815",
+        "FullDateAlternateKey": "2017-08-15"
+    },
+    {
+        "DateKey": "20170816",
+        "FullDateAlternateKey": "2017-08-16"
+    },
+    {
+        "DateKey": "20170817",
+        "FullDateAlternateKey": "2017-08-17"
+    },
+    {
+        "DateKey": "20170818",
+        "FullDateAlternateKey": "2017-08-18"
+    },
+    {
+        "DateKey": "20170819",
+        "FullDateAlternateKey": "2017-08-19"
+    },
+    {
+        "DateKey": "20170820",
+        "FullDateAlternateKey": "2017-08-20"
+    },
+    {
+        "DateKey": "20170821",
+        "FullDateAlternateKey": "2017-08-21"
+    },
+    {
+        "DateKey": "20170822",
+        "FullDateAlternateKey": "2017-08-22"
+    },
+    {
+        "DateKey": "20170823",
+        "FullDateAlternateKey": "2017-08-23"
+    },
+    {
+        "DateKey": "20170824",
+        "FullDateAlternateKey": "2017-08-24"
+    },
+    {
+        "DateKey": "20170825",
+        "FullDateAlternateKey": "2017-08-25"
+    },
+    {
+        "DateKey": "20170826",
+        "FullDateAlternateKey": "2017-08-26"
+    },
+    {
+        "DateKey": "20170827",
+        "FullDateAlternateKey": "2017-08-27"
+    },
+    {
+        "DateKey": "20170828",
+        "FullDateAlternateKey": "2017-08-28"
+    },
+    {
+        "DateKey": "20170829",
+        "FullDateAlternateKey": "2017-08-29"
+    },
+    {
+        "DateKey": "20170830",
+        "FullDateAlternateKey": "2017-08-30"
+    },
+    {
+        "DateKey": "20170831",
+        "FullDateAlternateKey": "2017-08-31"
+    },
+    {
+        "DateKey": "20170901",
+        "FullDateAlternateKey": "2017-09-01"
+    },
+    {
+        "DateKey": "20170902",
+        "FullDateAlternateKey": "2017-09-02"
+    },
+    {
+        "DateKey": "20170903",
+        "FullDateAlternateKey": "2017-09-03"
+    },
+    {
+        "DateKey": "20170904",
+        "FullDateAlternateKey": "2017-09-04"
+    },
+    {
+        "DateKey": "20170905",
+        "FullDateAlternateKey": "2017-09-05"
+    },
+    {
+        "DateKey": "20170906",
+        "FullDateAlternateKey": "2017-09-06"
+    },
+    {
+        "DateKey": "20170907",
+        "FullDateAlternateKey": "2017-09-07"
+    },
+    {
+        "DateKey": "20170908",
+        "FullDateAlternateKey": "2017-09-08"
+    },
+    {
+        "DateKey": "20170909",
+        "FullDateAlternateKey": "2017-09-09"
+    },
+    {
+        "DateKey": "20170910",
+        "FullDateAlternateKey": "2017-09-10"
+    },
+    {
+        "DateKey": "20170911",
+        "FullDateAlternateKey": "2017-09-11"
+    },
+    {
+        "DateKey": "20170912",
+        "FullDateAlternateKey": "2017-09-12"
+    },
+    {
+        "DateKey": "20170913",
+        "FullDateAlternateKey": "2017-09-13"
+    },
+    {
+        "DateKey": "20170914",
+        "FullDateAlternateKey": "2017-09-14"
+    },
+    {
+        "DateKey": "20170915",
+        "FullDateAlternateKey": "2017-09-15"
+    },
+    {
+        "DateKey": "20170916",
+        "FullDateAlternateKey": "2017-09-16"
+    },
+    {
+        "DateKey": "20170917",
+        "FullDateAlternateKey": "2017-09-17"
+    },
+    {
+        "DateKey": "20170918",
+        "FullDateAlternateKey": "2017-09-18"
+    },
+    {
+        "DateKey": "20170919",
+        "FullDateAlternateKey": "2017-09-19"
+    },
+    {
+        "DateKey": "20170920",
+        "FullDateAlternateKey": "2017-09-20"
+    },
+    {
+        "DateKey": "20170921",
+        "FullDateAlternateKey": "2017-09-21"
+    },
+    {
+        "DateKey": "20170922",
+        "FullDateAlternateKey": "2017-09-22"
+    },
+    {
+        "DateKey": "20170923",
+        "FullDateAlternateKey": "2017-09-23"
+    },
+    {
+        "DateKey": "20170924",
+        "FullDateAlternateKey": "2017-09-24"
+    },
+    {
+        "DateKey": "20170925",
+        "FullDateAlternateKey": "2017-09-25"
+    },
+    {
+        "DateKey": "20170926",
+        "FullDateAlternateKey": "2017-09-26"
+    },
+    {
+        "DateKey": "20170927",
+        "FullDateAlternateKey": "2017-09-27"
+    },
+    {
+        "DateKey": "20170928",
+        "FullDateAlternateKey": "2017-09-28"
+    },
+    {
+        "DateKey": "20170929",
+        "FullDateAlternateKey": "2017-09-29"
+    },
+    {
+        "DateKey": "20170930",
+        "FullDateAlternateKey": "2017-09-30"
+    },
+    {
+        "DateKey": "20171001",
+        "FullDateAlternateKey": "2017-10-01"
+    },
+    {
+        "DateKey": "20171002",
+        "FullDateAlternateKey": "2017-10-02"
+    },
+    {
+        "DateKey": "20171003",
+        "FullDateAlternateKey": "2017-10-03"
+    },
+    {
+        "DateKey": "20171004",
+        "FullDateAlternateKey": "2017-10-04"
+    },
+    {
+        "DateKey": "20171005",
+        "FullDateAlternateKey": "2017-10-05"
+    },
+    {
+        "DateKey": "20171006",
+        "FullDateAlternateKey": "2017-10-06"
+    },
+    {
+        "DateKey": "20171007",
+        "FullDateAlternateKey": "2017-10-07"
+    },
+    {
+        "DateKey": "20171008",
+        "FullDateAlternateKey": "2017-10-08"
+    },
+    {
+        "DateKey": "20171009",
+        "FullDateAlternateKey": "2017-10-09"
+    },
+    {
+        "DateKey": "20171010",
+        "FullDateAlternateKey": "2017-10-10"
+    },
+    {
+        "DateKey": "20171011",
+        "FullDateAlternateKey": "2017-10-11"
+    },
+    {
+        "DateKey": "20171012",
+        "FullDateAlternateKey": "2017-10-12"
+    },
+    {
+        "DateKey": "20171013",
+        "FullDateAlternateKey": "2017-10-13"
+    },
+    {
+        "DateKey": "20171014",
+        "FullDateAlternateKey": "2017-10-14"
+    },
+    {
+        "DateKey": "20171015",
+        "FullDateAlternateKey": "2017-10-15"
+    },
+    {
+        "DateKey": "20171016",
+        "FullDateAlternateKey": "2017-10-16"
+    },
+    {
+        "DateKey": "20171017",
+        "FullDateAlternateKey": "2017-10-17"
+    },
+    {
+        "DateKey": "20171018",
+        "FullDateAlternateKey": "2017-10-18"
+    },
+    {
+        "DateKey": "20171019",
+        "FullDateAlternateKey": "2017-10-19"
+    },
+    {
+        "DateKey": "20171020",
+        "FullDateAlternateKey": "2017-10-20"
+    },
+    {
+        "DateKey": "20171021",
+        "FullDateAlternateKey": "2017-10-21"
+    },
+    {
+        "DateKey": "20171022",
+        "FullDateAlternateKey": "2017-10-22"
+    },
+    {
+        "DateKey": "20171023",
+        "FullDateAlternateKey": "2017-10-23"
+    },
+    {
+        "DateKey": "20171024",
+        "FullDateAlternateKey": "2017-10-24"
+    },
+    {
+        "DateKey": "20171025",
+        "FullDateAlternateKey": "2017-10-25"
+    },
+    {
+        "DateKey": "20171026",
+        "FullDateAlternateKey": "2017-10-26"
+    },
+    {
+        "DateKey": "20171027",
+        "FullDateAlternateKey": "2017-10-27"
+    },
+    {
+        "DateKey": "20171028",
+        "FullDateAlternateKey": "2017-10-28"
+    },
+    {
+        "DateKey": "20171029",
+        "FullDateAlternateKey": "2017-10-29"
+    },
+    {
+        "DateKey": "20171030",
+        "FullDateAlternateKey": "2017-10-30"
+    },
+    {
+        "DateKey": "20171031",
+        "FullDateAlternateKey": "2017-10-31"
+    },
+    {
+        "DateKey": "20171101",
+        "FullDateAlternateKey": "2017-11-01"
+    },
+    {
+        "DateKey": "20171102",
+        "FullDateAlternateKey": "2017-11-02"
+    },
+    {
+        "DateKey": "20171103",
+        "FullDateAlternateKey": "2017-11-03"
+    },
+    {
+        "DateKey": "20171104",
+        "FullDateAlternateKey": "2017-11-04"
+    },
+    {
+        "DateKey": "20171105",
+        "FullDateAlternateKey": "2017-11-05"
+    },
+    {
+        "DateKey": "20171106",
+        "FullDateAlternateKey": "2017-11-06"
+    },
+    {
+        "DateKey": "20171107",
+        "FullDateAlternateKey": "2017-11-07"
+    },
+    {
+        "DateKey": "20171108",
+        "FullDateAlternateKey": "2017-11-08"
+    },
+    {
+        "DateKey": "20171109",
+        "FullDateAlternateKey": "2017-11-09"
+    },
+    {
+        "DateKey": "20171110",
+        "FullDateAlternateKey": "2017-11-10"
+    },
+    {
+        "DateKey": "20171111",
+        "FullDateAlternateKey": "2017-11-11"
+    },
+    {
+        "DateKey": "20171112",
+        "FullDateAlternateKey": "2017-11-12"
+    },
+    {
+        "DateKey": "20171113",
+        "FullDateAlternateKey": "2017-11-13"
+    },
+    {
+        "DateKey": "20171114",
+        "FullDateAlternateKey": "2017-11-14"
+    },
+    {
+        "DateKey": "20171115",
+        "FullDateAlternateKey": "2017-11-15"
+    },
+    {
+        "DateKey": "20171116",
+        "FullDateAlternateKey": "2017-11-16"
+    },
+    {
+        "DateKey": "20171117",
+        "FullDateAlternateKey": "2017-11-17"
+    },
+    {
+        "DateKey": "20171118",
+        "FullDateAlternateKey": "2017-11-18"
+    },
+    {
+        "DateKey": "20171119",
+        "FullDateAlternateKey": "2017-11-19"
+    },
+    {
+        "DateKey": "20171120",
+        "FullDateAlternateKey": "2017-11-20"
+    },
+    {
+        "DateKey": "20171121",
+        "FullDateAlternateKey": "2017-11-21"
+    },
+    {
+        "DateKey": "20171122",
+        "FullDateAlternateKey": "2017-11-22"
+    },
+    {
+        "DateKey": "20171123",
+        "FullDateAlternateKey": "2017-11-23"
+    },
+    {
+        "DateKey": "20171124",
+        "FullDateAlternateKey": "2017-11-24"
+    },
+    {
+        "DateKey": "20171125",
+        "FullDateAlternateKey": "2017-11-25"
+    },
+    {
+        "DateKey": "20171126",
+        "FullDateAlternateKey": "2017-11-26"
+    },
+    {
+        "DateKey": "20171127",
+        "FullDateAlternateKey": "2017-11-27"
+    },
+    {
+        "DateKey": "20171128",
+        "FullDateAlternateKey": "2017-11-28"
+    },
+    {
+        "DateKey": "20171129",
+        "FullDateAlternateKey": "2017-11-29"
+    },
+    {
+        "DateKey": "20171130",
+        "FullDateAlternateKey": "2017-11-30"
+    },
+    {
+        "DateKey": "20171201",
+        "FullDateAlternateKey": "2017-12-01"
+    },
+    {
+        "DateKey": "20171202",
+        "FullDateAlternateKey": "2017-12-02"
+    },
+    {
+        "DateKey": "20171203",
+        "FullDateAlternateKey": "2017-12-03"
+    },
+    {
+        "DateKey": "20171204",
+        "FullDateAlternateKey": "2017-12-04"
+    },
+    {
+        "DateKey": "20171205",
+        "FullDateAlternateKey": "2017-12-05"
+    },
+    {
+        "DateKey": "20171206",
+        "FullDateAlternateKey": "2017-12-06"
+    },
+    {
+        "DateKey": "20171207",
+        "FullDateAlternateKey": "2017-12-07"
+    },
+    {
+        "DateKey": "20171208",
+        "FullDateAlternateKey": "2017-12-08"
+    },
+    {
+        "DateKey": "20171209",
+        "FullDateAlternateKey": "2017-12-09"
+    },
+    {
+        "DateKey": "20171210",
+        "FullDateAlternateKey": "2017-12-10"
+    },
+    {
+        "DateKey": "20171211",
+        "FullDateAlternateKey": "2017-12-11"
+    },
+    {
+        "DateKey": "20171212",
+        "FullDateAlternateKey": "2017-12-12"
+    },
+    {
+        "DateKey": "20171213",
+        "FullDateAlternateKey": "2017-12-13"
+    },
+    {
+        "DateKey": "20171214",
+        "FullDateAlternateKey": "2017-12-14"
+    },
+    {
+        "DateKey": "20171215",
+        "FullDateAlternateKey": "2017-12-15"
+    },
+    {
+        "DateKey": "20171216",
+        "FullDateAlternateKey": "2017-12-16"
+    },
+    {
+        "DateKey": "20171217",
+        "FullDateAlternateKey": "2017-12-17"
+    },
+    {
+        "DateKey": "20171218",
+        "FullDateAlternateKey": "2017-12-18"
+    },
+    {
+        "DateKey": "20171219",
+        "FullDateAlternateKey": "2017-12-19"
+    },
+    {
+        "DateKey": "20171220",
+        "FullDateAlternateKey": "2017-12-20"
+    },
+    {
+        "DateKey": "20171221",
+        "FullDateAlternateKey": "2017-12-21"
+    },
+    {
+        "DateKey": "20171222",
+        "FullDateAlternateKey": "2017-12-22"
+    },
+    {
+        "DateKey": "20171223",
+        "FullDateAlternateKey": "2017-12-23"
+    },
+    {
+        "DateKey": "20171224",
+        "FullDateAlternateKey": "2017-12-24"
+    },
+    {
+        "DateKey": "20171225",
+        "FullDateAlternateKey": "2017-12-25"
+    },
+    {
+        "DateKey": "20171226",
+        "FullDateAlternateKey": "2017-12-26"
+    },
+    {
+        "DateKey": "20171227",
+        "FullDateAlternateKey": "2017-12-27"
+    },
+    {
+        "DateKey": "20171228",
+        "FullDateAlternateKey": "2017-12-28"
+    },
+    {
+        "DateKey": "20171229",
+        "FullDateAlternateKey": "2017-12-29"
+    },
+    {
+        "DateKey": "20171230",
+        "FullDateAlternateKey": "2017-12-30"
+    },
+    {
+        "DateKey": "20171231",
+        "FullDateAlternateKey": "2017-12-31"
+    },
+    {
+        "DateKey": "20180101",
+        "FullDateAlternateKey": "2018-01-01"
+    },
+    {
+        "DateKey": "20180102",
+        "FullDateAlternateKey": "2018-01-02"
+    },
+    {
+        "DateKey": "20180103",
+        "FullDateAlternateKey": "2018-01-03"
+    },
+    {
+        "DateKey": "20180104",
+        "FullDateAlternateKey": "2018-01-04"
+    },
+    {
+        "DateKey": "20180105",
+        "FullDateAlternateKey": "2018-01-05"
+    },
+    {
+        "DateKey": "20180106",
+        "FullDateAlternateKey": "2018-01-06"
+    },
+    {
+        "DateKey": "20180107",
+        "FullDateAlternateKey": "2018-01-07"
+    },
+    {
+        "DateKey": "20180108",
+        "FullDateAlternateKey": "2018-01-08"
+    },
+    {
+        "DateKey": "20180109",
+        "FullDateAlternateKey": "2018-01-09"
+    },
+    {
+        "DateKey": "20180110",
+        "FullDateAlternateKey": "2018-01-10"
+    },
+    {
+        "DateKey": "20180111",
+        "FullDateAlternateKey": "2018-01-11"
+    },
+    {
+        "DateKey": "20180112",
+        "FullDateAlternateKey": "2018-01-12"
+    },
+    {
+        "DateKey": "20180113",
+        "FullDateAlternateKey": "2018-01-13"
+    },
+    {
+        "DateKey": "20180114",
+        "FullDateAlternateKey": "2018-01-14"
+    },
+    {
+        "DateKey": "20180115",
+        "FullDateAlternateKey": "2018-01-15"
+    },
+    {
+        "DateKey": "20180116",
+        "FullDateAlternateKey": "2018-01-16"
+    },
+    {
+        "DateKey": "20180117",
+        "FullDateAlternateKey": "2018-01-17"
+    },
+    {
+        "DateKey": "20180118",
+        "FullDateAlternateKey": "2018-01-18"
+    },
+    {
+        "DateKey": "20180119",
+        "FullDateAlternateKey": "2018-01-19"
+    },
+    {
+        "DateKey": "20180120",
+        "FullDateAlternateKey": "2018-01-20"
+    },
+    {
+        "DateKey": "20180121",
+        "FullDateAlternateKey": "2018-01-21"
+    },
+    {
+        "DateKey": "20180122",
+        "FullDateAlternateKey": "2018-01-22"
+    },
+    {
+        "DateKey": "20180123",
+        "FullDateAlternateKey": "2018-01-23"
+    },
+    {
+        "DateKey": "20180124",
+        "FullDateAlternateKey": "2018-01-24"
+    },
+    {
+        "DateKey": "20180125",
+        "FullDateAlternateKey": "2018-01-25"
+    },
+    {
+        "DateKey": "20180126",
+        "FullDateAlternateKey": "2018-01-26"
+    },
+    {
+        "DateKey": "20180127",
+        "FullDateAlternateKey": "2018-01-27"
+    },
+    {
+        "DateKey": "20180128",
+        "FullDateAlternateKey": "2018-01-28"
+    },
+    {
+        "DateKey": "20180129",
+        "FullDateAlternateKey": "2018-01-29"
+    },
+    {
+        "DateKey": "20180130",
+        "FullDateAlternateKey": "2018-01-30"
+    },
+    {
+        "DateKey": "20180131",
+        "FullDateAlternateKey": "2018-01-31"
+    },
+    {
+        "DateKey": "20180201",
+        "FullDateAlternateKey": "2018-02-01"
+    },
+    {
+        "DateKey": "20180202",
+        "FullDateAlternateKey": "2018-02-02"
+    },
+    {
+        "DateKey": "20180203",
+        "FullDateAlternateKey": "2018-02-03"
+    },
+    {
+        "DateKey": "20180204",
+        "FullDateAlternateKey": "2018-02-04"
+    },
+    {
+        "DateKey": "20180205",
+        "FullDateAlternateKey": "2018-02-05"
+    },
+    {
+        "DateKey": "20180206",
+        "FullDateAlternateKey": "2018-02-06"
+    },
+    {
+        "DateKey": "20180207",
+        "FullDateAlternateKey": "2018-02-07"
+    },
+    {
+        "DateKey": "20180208",
+        "FullDateAlternateKey": "2018-02-08"
+    },
+    {
+        "DateKey": "20180209",
+        "FullDateAlternateKey": "2018-02-09"
+    },
+    {
+        "DateKey": "20180210",
+        "FullDateAlternateKey": "2018-02-10"
+    },
+    {
+        "DateKey": "20180211",
+        "FullDateAlternateKey": "2018-02-11"
+    },
+    {
+        "DateKey": "20180212",
+        "FullDateAlternateKey": "2018-02-12"
+    },
+    {
+        "DateKey": "20180213",
+        "FullDateAlternateKey": "2018-02-13"
+    },
+    {
+        "DateKey": "20180214",
+        "FullDateAlternateKey": "2018-02-14"
+    },
+    {
+        "DateKey": "20180215",
+        "FullDateAlternateKey": "2018-02-15"
+    },
+    {
+        "DateKey": "20180216",
+        "FullDateAlternateKey": "2018-02-16"
+    },
+    {
+        "DateKey": "20180217",
+        "FullDateAlternateKey": "2018-02-17"
+    },
+    {
+        "DateKey": "20180218",
+        "FullDateAlternateKey": "2018-02-18"
+    },
+    {
+        "DateKey": "20180219",
+        "FullDateAlternateKey": "2018-02-19"
+    },
+    {
+        "DateKey": "20180220",
+        "FullDateAlternateKey": "2018-02-20"
+    },
+    {
+        "DateKey": "20180221",
+        "FullDateAlternateKey": "2018-02-21"
+    },
+    {
+        "DateKey": "20180222",
+        "FullDateAlternateKey": "2018-02-22"
+    },
+    {
+        "DateKey": "20180223",
+        "FullDateAlternateKey": "2018-02-23"
+    },
+    {
+        "DateKey": "20180224",
+        "FullDateAlternateKey": "2018-02-24"
+    },
+    {
+        "DateKey": "20180225",
+        "FullDateAlternateKey": "2018-02-25"
+    },
+    {
+        "DateKey": "20180226",
+        "FullDateAlternateKey": "2018-02-26"
+    },
+    {
+        "DateKey": "20180227",
+        "FullDateAlternateKey": "2018-02-27"
+    },
+    {
+        "DateKey": "20180228",
+        "FullDateAlternateKey": "2018-02-28"
+    },
+    {
+        "DateKey": "20180301",
+        "FullDateAlternateKey": "2018-03-01"
+    },
+    {
+        "DateKey": "20180302",
+        "FullDateAlternateKey": "2018-03-02"
+    },
+    {
+        "DateKey": "20180303",
+        "FullDateAlternateKey": "2018-03-03"
+    },
+    {
+        "DateKey": "20180304",
+        "FullDateAlternateKey": "2018-03-04"
+    },
+    {
+        "DateKey": "20180305",
+        "FullDateAlternateKey": "2018-03-05"
+    },
+    {
+        "DateKey": "20180306",
+        "FullDateAlternateKey": "2018-03-06"
+    },
+    {
+        "DateKey": "20180307",
+        "FullDateAlternateKey": "2018-03-07"
+    },
+    {
+        "DateKey": "20180308",
+        "FullDateAlternateKey": "2018-03-08"
+    },
+    {
+        "DateKey": "20180309",
+        "FullDateAlternateKey": "2018-03-09"
+    },
+    {
+        "DateKey": "20180310",
+        "FullDateAlternateKey": "2018-03-10"
+    },
+    {
+        "DateKey": "20180311",
+        "FullDateAlternateKey": "2018-03-11"
+    },
+    {
+        "DateKey": "20180312",
+        "FullDateAlternateKey": "2018-03-12"
+    },
+    {
+        "DateKey": "20180313",
+        "FullDateAlternateKey": "2018-03-13"
+    },
+    {
+        "DateKey": "20180314",
+        "FullDateAlternateKey": "2018-03-14"
+    },
+    {
+        "DateKey": "20180315",
+        "FullDateAlternateKey": "2018-03-15"
+    },
+    {
+        "DateKey": "20180316",
+        "FullDateAlternateKey": "2018-03-16"
+    },
+    {
+        "DateKey": "20180317",
+        "FullDateAlternateKey": "2018-03-17"
+    },
+    {
+        "DateKey": "20180318",
+        "FullDateAlternateKey": "2018-03-18"
+    },
+    {
+        "DateKey": "20180319",
+        "FullDateAlternateKey": "2018-03-19"
+    },
+    {
+        "DateKey": "20180320",
+        "FullDateAlternateKey": "2018-03-20"
+    },
+    {
+        "DateKey": "20180321",
+        "FullDateAlternateKey": "2018-03-21"
+    },
+    {
+        "DateKey": "20180322",
+        "FullDateAlternateKey": "2018-03-22"
+    },
+    {
+        "DateKey": "20180323",
+        "FullDateAlternateKey": "2018-03-23"
+    },
+    {
+        "DateKey": "20180324",
+        "FullDateAlternateKey": "2018-03-24"
+    },
+    {
+        "DateKey": "20180325",
+        "FullDateAlternateKey": "2018-03-25"
+    },
+    {
+        "DateKey": "20180326",
+        "FullDateAlternateKey": "2018-03-26"
+    },
+    {
+        "DateKey": "20180327",
+        "FullDateAlternateKey": "2018-03-27"
+    },
+    {
+        "DateKey": "20180328",
+        "FullDateAlternateKey": "2018-03-28"
+    },
+    {
+        "DateKey": "20180329",
+        "FullDateAlternateKey": "2018-03-29"
+    },
+    {
+        "DateKey": "20180330",
+        "FullDateAlternateKey": "2018-03-30"
+    },
+    {
+        "DateKey": "20180331",
+        "FullDateAlternateKey": "2018-03-31"
+    },
+    {
+        "DateKey": "20180401",
+        "FullDateAlternateKey": "2018-04-01"
+    },
+    {
+        "DateKey": "20180402",
+        "FullDateAlternateKey": "2018-04-02"
+    },
+    {
+        "DateKey": "20180403",
+        "FullDateAlternateKey": "2018-04-03"
+    },
+    {
+        "DateKey": "20180404",
+        "FullDateAlternateKey": "2018-04-04"
+    },
+    {
+        "DateKey": "20180405",
+        "FullDateAlternateKey": "2018-04-05"
+    },
+    {
+        "DateKey": "20180406",
+        "FullDateAlternateKey": "2018-04-06"
+    },
+    {
+        "DateKey": "20180407",
+        "FullDateAlternateKey": "2018-04-07"
+    },
+    {
+        "DateKey": "20180408",
+        "FullDateAlternateKey": "2018-04-08"
+    },
+    {
+        "DateKey": "20180409",
+        "FullDateAlternateKey": "2018-04-09"
+    },
+    {
+        "DateKey": "20180410",
+        "FullDateAlternateKey": "2018-04-10"
+    },
+    {
+        "DateKey": "20180411",
+        "FullDateAlternateKey": "2018-04-11"
+    },
+    {
+        "DateKey": "20180412",
+        "FullDateAlternateKey": "2018-04-12"
+    },
+    {
+        "DateKey": "20180413",
+        "FullDateAlternateKey": "2018-04-13"
+    },
+    {
+        "DateKey": "20180414",
+        "FullDateAlternateKey": "2018-04-14"
+    },
+    {
+        "DateKey": "20180415",
+        "FullDateAlternateKey": "2018-04-15"
+    },
+    {
+        "DateKey": "20180416",
+        "FullDateAlternateKey": "2018-04-16"
+    },
+    {
+        "DateKey": "20180417",
+        "FullDateAlternateKey": "2018-04-17"
+    },
+    {
+        "DateKey": "20180418",
+        "FullDateAlternateKey": "2018-04-18"
+    },
+    {
+        "DateKey": "20180419",
+        "FullDateAlternateKey": "2018-04-19"
+    },
+    {
+        "DateKey": "20180420",
+        "FullDateAlternateKey": "2018-04-20"
+    },
+    {
+        "DateKey": "20180421",
+        "FullDateAlternateKey": "2018-04-21"
+    },
+    {
+        "DateKey": "20180422",
+        "FullDateAlternateKey": "2018-04-22"
+    },
+    {
+        "DateKey": "20180423",
+        "FullDateAlternateKey": "2018-04-23"
+    },
+    {
+        "DateKey": "20180424",
+        "FullDateAlternateKey": "2018-04-24"
+    },
+    {
+        "DateKey": "20180425",
+        "FullDateAlternateKey": "2018-04-25"
+    },
+    {
+        "DateKey": "20180426",
+        "FullDateAlternateKey": "2018-04-26"
+    },
+    {
+        "DateKey": "20180427",
+        "FullDateAlternateKey": "2018-04-27"
+    },
+    {
+        "DateKey": "20180428",
+        "FullDateAlternateKey": "2018-04-28"
+    },
+    {
+        "DateKey": "20180429",
+        "FullDateAlternateKey": "2018-04-29"
+    },
+    {
+        "DateKey": "20180430",
+        "FullDateAlternateKey": "2018-04-30"
+    },
+    {
+        "DateKey": "20180501",
+        "FullDateAlternateKey": "2018-05-01"
+    },
+    {
+        "DateKey": "20180502",
+        "FullDateAlternateKey": "2018-05-02"
+    },
+    {
+        "DateKey": "20180503",
+        "FullDateAlternateKey": "2018-05-03"
+    },
+    {
+        "DateKey": "20180504",
+        "FullDateAlternateKey": "2018-05-04"
+    },
+    {
+        "DateKey": "20180505",
+        "FullDateAlternateKey": "2018-05-05"
+    },
+    {
+        "DateKey": "20180506",
+        "FullDateAlternateKey": "2018-05-06"
+    },
+    {
+        "DateKey": "20180507",
+        "FullDateAlternateKey": "2018-05-07"
+    },
+    {
+        "DateKey": "20180508",
+        "FullDateAlternateKey": "2018-05-08"
+    },
+    {
+        "DateKey": "20180509",
+        "FullDateAlternateKey": "2018-05-09"
+    },
+    {
+        "DateKey": "20180510",
+        "FullDateAlternateKey": "2018-05-10"
+    },
+    {
+        "DateKey": "20180511",
+        "FullDateAlternateKey": "2018-05-11"
+    },
+    {
+        "DateKey": "20180512",
+        "FullDateAlternateKey": "2018-05-12"
+    },
+    {
+        "DateKey": "20180513",
+        "FullDateAlternateKey": "2018-05-13"
+    },
+    {
+        "DateKey": "20180514",
+        "FullDateAlternateKey": "2018-05-14"
+    },
+    {
+        "DateKey": "20180515",
+        "FullDateAlternateKey": "2018-05-15"
+    },
+    {
+        "DateKey": "20180516",
+        "FullDateAlternateKey": "2018-05-16"
+    },
+    {
+        "DateKey": "20180517",
+        "FullDateAlternateKey": "2018-05-17"
+    },
+    {
+        "DateKey": "20180518",
+        "FullDateAlternateKey": "2018-05-18"
+    },
+    {
+        "DateKey": "20180519",
+        "FullDateAlternateKey": "2018-05-19"
+    },
+    {
+        "DateKey": "20180520",
+        "FullDateAlternateKey": "2018-05-20"
+    },
+    {
+        "DateKey": "20180521",
+        "FullDateAlternateKey": "2018-05-21"
+    },
+    {
+        "DateKey": "20180522",
+        "FullDateAlternateKey": "2018-05-22"
+    },
+    {
+        "DateKey": "20180523",
+        "FullDateAlternateKey": "2018-05-23"
+    },
+    {
+        "DateKey": "20180524",
+        "FullDateAlternateKey": "2018-05-24"
+    },
+    {
+        "DateKey": "20180525",
+        "FullDateAlternateKey": "2018-05-25"
+    },
+    {
+        "DateKey": "20180526",
+        "FullDateAlternateKey": "2018-05-26"
+    },
+    {
+        "DateKey": "20180527",
+        "FullDateAlternateKey": "2018-05-27"
+    },
+    {
+        "DateKey": "20180528",
+        "FullDateAlternateKey": "2018-05-28"
+    },
+    {
+        "DateKey": "20180529",
+        "FullDateAlternateKey": "2018-05-29"
+    },
+    {
+        "DateKey": "20180530",
+        "FullDateAlternateKey": "2018-05-30"
+    },
+    {
+        "DateKey": "20180531",
+        "FullDateAlternateKey": "2018-05-31"
+    },
+    {
+        "DateKey": "20180601",
+        "FullDateAlternateKey": "2018-06-01"
+    },
+    {
+        "DateKey": "20180602",
+        "FullDateAlternateKey": "2018-06-02"
+    },
+    {
+        "DateKey": "20180603",
+        "FullDateAlternateKey": "2018-06-03"
+    },
+    {
+        "DateKey": "20180604",
+        "FullDateAlternateKey": "2018-06-04"
+    },
+    {
+        "DateKey": "20180605",
+        "FullDateAlternateKey": "2018-06-05"
+    },
+    {
+        "DateKey": "20180606",
+        "FullDateAlternateKey": "2018-06-06"
+    },
+    {
+        "DateKey": "20180607",
+        "FullDateAlternateKey": "2018-06-07"
+    },
+    {
+        "DateKey": "20180608",
+        "FullDateAlternateKey": "2018-06-08"
+    },
+    {
+        "DateKey": "20180609",
+        "FullDateAlternateKey": "2018-06-09"
+    },
+    {
+        "DateKey": "20180610",
+        "FullDateAlternateKey": "2018-06-10"
+    },
+    {
+        "DateKey": "20180611",
+        "FullDateAlternateKey": "2018-06-11"
+    },
+    {
+        "DateKey": "20180612",
+        "FullDateAlternateKey": "2018-06-12"
+    },
+    {
+        "DateKey": "20180613",
+        "FullDateAlternateKey": "2018-06-13"
+    },
+    {
+        "DateKey": "20180614",
+        "FullDateAlternateKey": "2018-06-14"
+    },
+    {
+        "DateKey": "20180615",
+        "FullDateAlternateKey": "2018-06-15"
+    },
+    {
+        "DateKey": "20180616",
+        "FullDateAlternateKey": "2018-06-16"
+    },
+    {
+        "DateKey": "20180617",
+        "FullDateAlternateKey": "2018-06-17"
+    },
+    {
+        "DateKey": "20180618",
+        "FullDateAlternateKey": "2018-06-18"
+    },
+    {
+        "DateKey": "20180619",
+        "FullDateAlternateKey": "2018-06-19"
+    },
+    {
+        "DateKey": "20180620",
+        "FullDateAlternateKey": "2018-06-20"
+    },
+    {
+        "DateKey": "20180621",
+        "FullDateAlternateKey": "2018-06-21"
+    },
+    {
+        "DateKey": "20180622",
+        "FullDateAlternateKey": "2018-06-22"
+    },
+    {
+        "DateKey": "20180623",
+        "FullDateAlternateKey": "2018-06-23"
+    },
+    {
+        "DateKey": "20180624",
+        "FullDateAlternateKey": "2018-06-24"
+    },
+    {
+        "DateKey": "20180625",
+        "FullDateAlternateKey": "2018-06-25"
+    },
+    {
+        "DateKey": "20180626",
+        "FullDateAlternateKey": "2018-06-26"
+    },
+    {
+        "DateKey": "20180627",
+        "FullDateAlternateKey": "2018-06-27"
+    },
+    {
+        "DateKey": "20180628",
+        "FullDateAlternateKey": "2018-06-28"
+    },
+    {
+        "DateKey": "20180629",
+        "FullDateAlternateKey": "2018-06-29"
+    },
+    {
+        "DateKey": "20180630",
+        "FullDateAlternateKey": "2018-06-30"
+    },
+    {
+        "DateKey": "20180701",
+        "FullDateAlternateKey": "2018-07-01"
+    },
+    {
+        "DateKey": "20180702",
+        "FullDateAlternateKey": "2018-07-02"
+    },
+    {
+        "DateKey": "20180703",
+        "FullDateAlternateKey": "2018-07-03"
+    },
+    {
+        "DateKey": "20180704",
+        "FullDateAlternateKey": "2018-07-04"
+    },
+    {
+        "DateKey": "20180705",
+        "FullDateAlternateKey": "2018-07-05"
+    },
+    {
+        "DateKey": "20180706",
+        "FullDateAlternateKey": "2018-07-06"
+    },
+    {
+        "DateKey": "20180707",
+        "FullDateAlternateKey": "2018-07-07"
+    },
+    {
+        "DateKey": "20180708",
+        "FullDateAlternateKey": "2018-07-08"
+    },
+    {
+        "DateKey": "20180709",
+        "FullDateAlternateKey": "2018-07-09"
+    },
+    {
+        "DateKey": "20180710",
+        "FullDateAlternateKey": "2018-07-10"
+    },
+    {
+        "DateKey": "20180711",
+        "FullDateAlternateKey": "2018-07-11"
+    },
+    {
+        "DateKey": "20180712",
+        "FullDateAlternateKey": "2018-07-12"
+    },
+    {
+        "DateKey": "20180713",
+        "FullDateAlternateKey": "2018-07-13"
+    },
+    {
+        "DateKey": "20180714",
+        "FullDateAlternateKey": "2018-07-14"
+    },
+    {
+        "DateKey": "20180715",
+        "FullDateAlternateKey": "2018-07-15"
+    },
+    {
+        "DateKey": "20180716",
+        "FullDateAlternateKey": "2018-07-16"
+    },
+    {
+        "DateKey": "20180717",
+        "FullDateAlternateKey": "2018-07-17"
+    },
+    {
+        "DateKey": "20180718",
+        "FullDateAlternateKey": "2018-07-18"
+    },
+    {
+        "DateKey": "20180719",
+        "FullDateAlternateKey": "2018-07-19"
+    },
+    {
+        "DateKey": "20180720",
+        "FullDateAlternateKey": "2018-07-20"
+    },
+    {
+        "DateKey": "20180721",
+        "FullDateAlternateKey": "2018-07-21"
+    },
+    {
+        "DateKey": "20180722",
+        "FullDateAlternateKey": "2018-07-22"
+    },
+    {
+        "DateKey": "20180723",
+        "FullDateAlternateKey": "2018-07-23"
+    },
+    {
+        "DateKey": "20180724",
+        "FullDateAlternateKey": "2018-07-24"
+    },
+    {
+        "DateKey": "20180725",
+        "FullDateAlternateKey": "2018-07-25"
+    },
+    {
+        "DateKey": "20180726",
+        "FullDateAlternateKey": "2018-07-26"
+    },
+    {
+        "DateKey": "20180727",
+        "FullDateAlternateKey": "2018-07-27"
+    },
+    {
+        "DateKey": "20180728",
+        "FullDateAlternateKey": "2018-07-28"
+    },
+    {
+        "DateKey": "20180729",
+        "FullDateAlternateKey": "2018-07-29"
+    },
+    {
+        "DateKey": "20180730",
+        "FullDateAlternateKey": "2018-07-30"
+    },
+    {
+        "DateKey": "20180731",
+        "FullDateAlternateKey": "2018-07-31"
+    },
+    {
+        "DateKey": "20180801",
+        "FullDateAlternateKey": "2018-08-01"
+    },
+    {
+        "DateKey": "20180802",
+        "FullDateAlternateKey": "2018-08-02"
+    },
+    {
+        "DateKey": "20180803",
+        "FullDateAlternateKey": "2018-08-03"
+    },
+    {
+        "DateKey": "20180804",
+        "FullDateAlternateKey": "2018-08-04"
+    },
+    {
+        "DateKey": "20180805",
+        "FullDateAlternateKey": "2018-08-05"
+    },
+    {
+        "DateKey": "20180806",
+        "FullDateAlternateKey": "2018-08-06"
+    },
+    {
+        "DateKey": "20180807",
+        "FullDateAlternateKey": "2018-08-07"
+    },
+    {
+        "DateKey": "20180808",
+        "FullDateAlternateKey": "2018-08-08"
+    },
+    {
+        "DateKey": "20180809",
+        "FullDateAlternateKey": "2018-08-09"
+    },
+    {
+        "DateKey": "20180810",
+        "FullDateAlternateKey": "2018-08-10"
+    },
+    {
+        "DateKey": "20180811",
+        "FullDateAlternateKey": "2018-08-11"
+    },
+    {
+        "DateKey": "20180812",
+        "FullDateAlternateKey": "2018-08-12"
+    },
+    {
+        "DateKey": "20180813",
+        "FullDateAlternateKey": "2018-08-13"
+    },
+    {
+        "DateKey": "20180814",
+        "FullDateAlternateKey": "2018-08-14"
+    },
+    {
+        "DateKey": "20180815",
+        "FullDateAlternateKey": "2018-08-15"
+    },
+    {
+        "DateKey": "20180816",
+        "FullDateAlternateKey": "2018-08-16"
+    },
+    {
+        "DateKey": "20180817",
+        "FullDateAlternateKey": "2018-08-17"
+    },
+    {
+        "DateKey": "20180818",
+        "FullDateAlternateKey": "2018-08-18"
+    },
+    {
+        "DateKey": "20180819",
+        "FullDateAlternateKey": "2018-08-19"
+    },
+    {
+        "DateKey": "20180820",
+        "FullDateAlternateKey": "2018-08-20"
+    },
+    {
+        "DateKey": "20180821",
+        "FullDateAlternateKey": "2018-08-21"
+    },
+    {
+        "DateKey": "20180822",
+        "FullDateAlternateKey": "2018-08-22"
+    },
+    {
+        "DateKey": "20180823",
+        "FullDateAlternateKey": "2018-08-23"
+    },
+    {
+        "DateKey": "20180824",
+        "FullDateAlternateKey": "2018-08-24"
+    },
+    {
+        "DateKey": "20180825",
+        "FullDateAlternateKey": "2018-08-25"
+    },
+    {
+        "DateKey": "20180826",
+        "FullDateAlternateKey": "2018-08-26"
+    },
+    {
+        "DateKey": "20180827",
+        "FullDateAlternateKey": "2018-08-27"
+    },
+    {
+        "DateKey": "20180828",
+        "FullDateAlternateKey": "2018-08-28"
+    },
+    {
+        "DateKey": "20180829",
+        "FullDateAlternateKey": "2018-08-29"
+    },
+    {
+        "DateKey": "20180830",
+        "FullDateAlternateKey": "2018-08-30"
+    },
+    {
+        "DateKey": "20180831",
+        "FullDateAlternateKey": "2018-08-31"
+    },
+    {
+        "DateKey": "20180901",
+        "FullDateAlternateKey": "2018-09-01"
+    },
+    {
+        "DateKey": "20180902",
+        "FullDateAlternateKey": "2018-09-02"
+    },
+    {
+        "DateKey": "20180903",
+        "FullDateAlternateKey": "2018-09-03"
+    },
+    {
+        "DateKey": "20180904",
+        "FullDateAlternateKey": "2018-09-04"
+    },
+    {
+        "DateKey": "20180905",
+        "FullDateAlternateKey": "2018-09-05"
+    },
+    {
+        "DateKey": "20180906",
+        "FullDateAlternateKey": "2018-09-06"
+    },
+    {
+        "DateKey": "20180907",
+        "FullDateAlternateKey": "2018-09-07"
+    },
+    {
+        "DateKey": "20180908",
+        "FullDateAlternateKey": "2018-09-08"
+    },
+    {
+        "DateKey": "20180909",
+        "FullDateAlternateKey": "2018-09-09"
+    },
+    {
+        "DateKey": "20180910",
+        "FullDateAlternateKey": "2018-09-10"
+    },
+    {
+        "DateKey": "20180911",
+        "FullDateAlternateKey": "2018-09-11"
+    },
+    {
+        "DateKey": "20180912",
+        "FullDateAlternateKey": "2018-09-12"
+    },
+    {
+        "DateKey": "20180913",
+        "FullDateAlternateKey": "2018-09-13"
+    },
+    {
+        "DateKey": "20180914",
+        "FullDateAlternateKey": "2018-09-14"
+    },
+    {
+        "DateKey": "20180915",
+        "FullDateAlternateKey": "2018-09-15"
+    },
+    {
+        "DateKey": "20180916",
+        "FullDateAlternateKey": "2018-09-16"
+    },
+    {
+        "DateKey": "20180917",
+        "FullDateAlternateKey": "2018-09-17"
+    },
+    {
+        "DateKey": "20180918",
+        "FullDateAlternateKey": "2018-09-18"
+    },
+    {
+        "DateKey": "20180919",
+        "FullDateAlternateKey": "2018-09-19"
+    },
+    {
+        "DateKey": "20180920",
+        "FullDateAlternateKey": "2018-09-20"
+    },
+    {
+        "DateKey": "20180921",
+        "FullDateAlternateKey": "2018-09-21"
+    },
+    {
+        "DateKey": "20180922",
+        "FullDateAlternateKey": "2018-09-22"
+    },
+    {
+        "DateKey": "20180923",
+        "FullDateAlternateKey": "2018-09-23"
+    },
+    {
+        "DateKey": "20180924",
+        "FullDateAlternateKey": "2018-09-24"
+    },
+    {
+        "DateKey": "20180925",
+        "FullDateAlternateKey": "2018-09-25"
+    },
+    {
+        "DateKey": "20180926",
+        "FullDateAlternateKey": "2018-09-26"
+    },
+    {
+        "DateKey": "20180927",
+        "FullDateAlternateKey": "2018-09-27"
+    },
+    {
+        "DateKey": "20180928",
+        "FullDateAlternateKey": "2018-09-28"
+    },
+    {
+        "DateKey": "20180929",
+        "FullDateAlternateKey": "2018-09-29"
+    },
+    {
+        "DateKey": "20180930",
+        "FullDateAlternateKey": "2018-09-30"
+    },
+    {
+        "DateKey": "20181001",
+        "FullDateAlternateKey": "2018-10-01"
+    },
+    {
+        "DateKey": "20181002",
+        "FullDateAlternateKey": "2018-10-02"
+    },
+    {
+        "DateKey": "20181003",
+        "FullDateAlternateKey": "2018-10-03"
+    },
+    {
+        "DateKey": "20181004",
+        "FullDateAlternateKey": "2018-10-04"
+    },
+    {
+        "DateKey": "20181005",
+        "FullDateAlternateKey": "2018-10-05"
+    },
+    {
+        "DateKey": "20181006",
+        "FullDateAlternateKey": "2018-10-06"
+    },
+    {
+        "DateKey": "20181007",
+        "FullDateAlternateKey": "2018-10-07"
+    },
+    {
+        "DateKey": "20181008",
+        "FullDateAlternateKey": "2018-10-08"
+    },
+    {
+        "DateKey": "20181009",
+        "FullDateAlternateKey": "2018-10-09"
+    },
+    {
+        "DateKey": "20181010",
+        "FullDateAlternateKey": "2018-10-10"
+    },
+    {
+        "DateKey": "20181011",
+        "FullDateAlternateKey": "2018-10-11"
+    },
+    {
+        "DateKey": "20181012",
+        "FullDateAlternateKey": "2018-10-12"
+    },
+    {
+        "DateKey": "20181013",
+        "FullDateAlternateKey": "2018-10-13"
+    },
+    {
+        "DateKey": "20181014",
+        "FullDateAlternateKey": "2018-10-14"
+    },
+    {
+        "DateKey": "20181015",
+        "FullDateAlternateKey": "2018-10-15"
+    },
+    {
+        "DateKey": "20181016",
+        "FullDateAlternateKey": "2018-10-16"
+    },
+    {
+        "DateKey": "20181017",
+        "FullDateAlternateKey": "2018-10-17"
+    },
+    {
+        "DateKey": "20181018",
+        "FullDateAlternateKey": "2018-10-18"
+    },
+    {
+        "DateKey": "20181019",
+        "FullDateAlternateKey": "2018-10-19"
+    },
+    {
+        "DateKey": "20181020",
+        "FullDateAlternateKey": "2018-10-20"
+    },
+    {
+        "DateKey": "20181021",
+        "FullDateAlternateKey": "2018-10-21"
+    },
+    {
+        "DateKey": "20181022",
+        "FullDateAlternateKey": "2018-10-22"
+    },
+    {
+        "DateKey": "20181023",
+        "FullDateAlternateKey": "2018-10-23"
+    },
+    {
+        "DateKey": "20181024",
+        "FullDateAlternateKey": "2018-10-24"
+    },
+    {
+        "DateKey": "20181025",
+        "FullDateAlternateKey": "2018-10-25"
+    },
+    {
+        "DateKey": "20181026",
+        "FullDateAlternateKey": "2018-10-26"
+    },
+    {
+        "DateKey": "20181027",
+        "FullDateAlternateKey": "2018-10-27"
+    },
+    {
+        "DateKey": "20181028",
+        "FullDateAlternateKey": "2018-10-28"
+    },
+    {
+        "DateKey": "20181029",
+        "FullDateAlternateKey": "2018-10-29"
+    },
+    {
+        "DateKey": "20181030",
+        "FullDateAlternateKey": "2018-10-30"
+    },
+    {
+        "DateKey": "20181031",
+        "FullDateAlternateKey": "2018-10-31"
+    },
+    {
+        "DateKey": "20181101",
+        "FullDateAlternateKey": "2018-11-01"
+    },
+    {
+        "DateKey": "20181102",
+        "FullDateAlternateKey": "2018-11-02"
+    },
+    {
+        "DateKey": "20181103",
+        "FullDateAlternateKey": "2018-11-03"
+    },
+    {
+        "DateKey": "20181104",
+        "FullDateAlternateKey": "2018-11-04"
+    },
+    {
+        "DateKey": "20181105",
+        "FullDateAlternateKey": "2018-11-05"
+    },
+    {
+        "DateKey": "20181106",
+        "FullDateAlternateKey": "2018-11-06"
+    },
+    {
+        "DateKey": "20181107",
+        "FullDateAlternateKey": "2018-11-07"
+    },
+    {
+        "DateKey": "20181108",
+        "FullDateAlternateKey": "2018-11-08"
+    },
+    {
+        "DateKey": "20181109",
+        "FullDateAlternateKey": "2018-11-09"
+    },
+    {
+        "DateKey": "20181110",
+        "FullDateAlternateKey": "2018-11-10"
+    },
+    {
+        "DateKey": "20181111",
+        "FullDateAlternateKey": "2018-11-11"
+    },
+    {
+        "DateKey": "20181112",
+        "FullDateAlternateKey": "2018-11-12"
+    },
+    {
+        "DateKey": "20181113",
+        "FullDateAlternateKey": "2018-11-13"
+    },
+    {
+        "DateKey": "20181114",
+        "FullDateAlternateKey": "2018-11-14"
+    },
+    {
+        "DateKey": "20181115",
+        "FullDateAlternateKey": "2018-11-15"
+    },
+    {
+        "DateKey": "20181116",
+        "FullDateAlternateKey": "2018-11-16"
+    },
+    {
+        "DateKey": "20181117",
+        "FullDateAlternateKey": "2018-11-17"
+    },
+    {
+        "DateKey": "20181118",
+        "FullDateAlternateKey": "2018-11-18"
+    },
+    {
+        "DateKey": "20181119",
+        "FullDateAlternateKey": "2018-11-19"
+    },
+    {
+        "DateKey": "20181120",
+        "FullDateAlternateKey": "2018-11-20"
+    },
+    {
+        "DateKey": "20181121",
+        "FullDateAlternateKey": "2018-11-21"
+    },
+    {
+        "DateKey": "20181122",
+        "FullDateAlternateKey": "2018-11-22"
+    },
+    {
+        "DateKey": "20181123",
+        "FullDateAlternateKey": "2018-11-23"
+    },
+    {
+        "DateKey": "20181124",
+        "FullDateAlternateKey": "2018-11-24"
+    },
+    {
+        "DateKey": "20181125",
+        "FullDateAlternateKey": "2018-11-25"
+    },
+    {
+        "DateKey": "20181126",
+        "FullDateAlternateKey": "2018-11-26"
+    },
+    {
+        "DateKey": "20181127",
+        "FullDateAlternateKey": "2018-11-27"
+    },
+    {
+        "DateKey": "20181128",
+        "FullDateAlternateKey": "2018-11-28"
+    },
+    {
+        "DateKey": "20181129",
+        "FullDateAlternateKey": "2018-11-29"
+    },
+    {
+        "DateKey": "20181130",
+        "FullDateAlternateKey": "2018-11-30"
+    },
+    {
+        "DateKey": "20181201",
+        "FullDateAlternateKey": "2018-12-01"
+    },
+    {
+        "DateKey": "20181202",
+        "FullDateAlternateKey": "2018-12-02"
+    },
+    {
+        "DateKey": "20181203",
+        "FullDateAlternateKey": "2018-12-03"
+    },
+    {
+        "DateKey": "20181204",
+        "FullDateAlternateKey": "2018-12-04"
+    },
+    {
+        "DateKey": "20181205",
+        "FullDateAlternateKey": "2018-12-05"
+    },
+    {
+        "DateKey": "20181206",
+        "FullDateAlternateKey": "2018-12-06"
+    },
+    {
+        "DateKey": "20181207",
+        "FullDateAlternateKey": "2018-12-07"
+    },
+    {
+        "DateKey": "20181208",
+        "FullDateAlternateKey": "2018-12-08"
+    },
+    {
+        "DateKey": "20181209",
+        "FullDateAlternateKey": "2018-12-09"
+    },
+    {
+        "DateKey": "20181210",
+        "FullDateAlternateKey": "2018-12-10"
+    },
+    {
+        "DateKey": "20181211",
+        "FullDateAlternateKey": "2018-12-11"
+    },
+    {
+        "DateKey": "20181212",
+        "FullDateAlternateKey": "2018-12-12"
+    },
+    {
+        "DateKey": "20181213",
+        "FullDateAlternateKey": "2018-12-13"
+    },
+    {
+        "DateKey": "20181214",
+        "FullDateAlternateKey": "2018-12-14"
+    },
+    {
+        "DateKey": "20181215",
+        "FullDateAlternateKey": "2018-12-15"
+    },
+    {
+        "DateKey": "20181216",
+        "FullDateAlternateKey": "2018-12-16"
+    },
+    {
+        "DateKey": "20181217",
+        "FullDateAlternateKey": "2018-12-17"
+    },
+    {
+        "DateKey": "20181218",
+        "FullDateAlternateKey": "2018-12-18"
+    },
+    {
+        "DateKey": "20181219",
+        "FullDateAlternateKey": "2018-12-19"
+    },
+    {
+        "DateKey": "20181220",
+        "FullDateAlternateKey": "2018-12-20"
+    },
+    {
+        "DateKey": "20181221",
+        "FullDateAlternateKey": "2018-12-21"
+    },
+    {
+        "DateKey": "20181222",
+        "FullDateAlternateKey": "2018-12-22"
+    },
+    {
+        "DateKey": "20181223",
+        "FullDateAlternateKey": "2018-12-23"
+    },
+    {
+        "DateKey": "20181224",
+        "FullDateAlternateKey": "2018-12-24"
+    },
+    {
+        "DateKey": "20181225",
+        "FullDateAlternateKey": "2018-12-25"
+    },
+    {
+        "DateKey": "20181226",
+        "FullDateAlternateKey": "2018-12-26"
+    },
+    {
+        "DateKey": "20181227",
+        "FullDateAlternateKey": "2018-12-27"
+    },
+    {
+        "DateKey": "20181228",
+        "FullDateAlternateKey": "2018-12-28"
+    },
+    {
+        "DateKey": "20181229",
+        "FullDateAlternateKey": "2018-12-29"
+    },
+    {
+        "DateKey": "20181230",
+        "FullDateAlternateKey": "2018-12-30"
+    },
+    {
+        "DateKey": "20181231",
+        "FullDateAlternateKey": "2018-12-31"
+    },
+    {
+        "DateKey": "20190101",
+        "FullDateAlternateKey": "2019-01-01"
+    },
+    {
+        "DateKey": "20190102",
+        "FullDateAlternateKey": "2019-01-02"
+    },
+    {
+        "DateKey": "20190103",
+        "FullDateAlternateKey": "2019-01-03"
+    },
+    {
+        "DateKey": "20190104",
+        "FullDateAlternateKey": "2019-01-04"
+    },
+    {
+        "DateKey": "20190105",
+        "FullDateAlternateKey": "2019-01-05"
+    },
+    {
+        "DateKey": "20190106",
+        "FullDateAlternateKey": "2019-01-06"
+    },
+    {
+        "DateKey": "20190107",
+        "FullDateAlternateKey": "2019-01-07"
+    },
+    {
+        "DateKey": "20190108",
+        "FullDateAlternateKey": "2019-01-08"
+    },
+    {
+        "DateKey": "20190109",
+        "FullDateAlternateKey": "2019-01-09"
+    },
+    {
+        "DateKey": "20190110",
+        "FullDateAlternateKey": "2019-01-10"
+    },
+    {
+        "DateKey": "20190111",
+        "FullDateAlternateKey": "2019-01-11"
+    },
+    {
+        "DateKey": "20190112",
+        "FullDateAlternateKey": "2019-01-12"
+    },
+    {
+        "DateKey": "20190113",
+        "FullDateAlternateKey": "2019-01-13"
+    },
+    {
+        "DateKey": "20190114",
+        "FullDateAlternateKey": "2019-01-14"
+    },
+    {
+        "DateKey": "20190115",
+        "FullDateAlternateKey": "2019-01-15"
+    },
+    {
+        "DateKey": "20190116",
+        "FullDateAlternateKey": "2019-01-16"
+    },
+    {
+        "DateKey": "20190117",
+        "FullDateAlternateKey": "2019-01-17"
+    },
+    {
+        "DateKey": "20190118",
+        "FullDateAlternateKey": "2019-01-18"
+    },
+    {
+        "DateKey": "20190119",
+        "FullDateAlternateKey": "2019-01-19"
+    },
+    {
+        "DateKey": "20190120",
+        "FullDateAlternateKey": "2019-01-20"
+    },
+    {
+        "DateKey": "20190121",
+        "FullDateAlternateKey": "2019-01-21"
+    },
+    {
+        "DateKey": "20190122",
+        "FullDateAlternateKey": "2019-01-22"
+    },
+    {
+        "DateKey": "20190123",
+        "FullDateAlternateKey": "2019-01-23"
+    },
+    {
+        "DateKey": "20190124",
+        "FullDateAlternateKey": "2019-01-24"
+    },
+    {
+        "DateKey": "20190125",
+        "FullDateAlternateKey": "2019-01-25"
+    },
+    {
+        "DateKey": "20190126",
+        "FullDateAlternateKey": "2019-01-26"
+    },
+    {
+        "DateKey": "20190127",
+        "FullDateAlternateKey": "2019-01-27"
+    },
+    {
+        "DateKey": "20190128",
+        "FullDateAlternateKey": "2019-01-28"
+    },
+    {
+        "DateKey": "20190129",
+        "FullDateAlternateKey": "2019-01-29"
+    },
+    {
+        "DateKey": "20190130",
+        "FullDateAlternateKey": "2019-01-30"
+    },
+    {
+        "DateKey": "20190131",
+        "FullDateAlternateKey": "2019-01-31"
+    },
+    {
+        "DateKey": "20190201",
+        "FullDateAlternateKey": "2019-02-01"
+    },
+    {
+        "DateKey": "20190202",
+        "FullDateAlternateKey": "2019-02-02"
+    },
+    {
+        "DateKey": "20190203",
+        "FullDateAlternateKey": "2019-02-03"
+    },
+    {
+        "DateKey": "20190204",
+        "FullDateAlternateKey": "2019-02-04"
+    },
+    {
+        "DateKey": "20190205",
+        "FullDateAlternateKey": "2019-02-05"
+    },
+    {
+        "DateKey": "20190206",
+        "FullDateAlternateKey": "2019-02-06"
+    },
+    {
+        "DateKey": "20190207",
+        "FullDateAlternateKey": "2019-02-07"
+    },
+    {
+        "DateKey": "20190208",
+        "FullDateAlternateKey": "2019-02-08"
+    },
+    {
+        "DateKey": "20190209",
+        "FullDateAlternateKey": "2019-02-09"
+    },
+    {
+        "DateKey": "20190210",
+        "FullDateAlternateKey": "2019-02-10"
+    },
+    {
+        "DateKey": "20190211",
+        "FullDateAlternateKey": "2019-02-11"
+    },
+    {
+        "DateKey": "20190212",
+        "FullDateAlternateKey": "2019-02-12"
+    },
+    {
+        "DateKey": "20190213",
+        "FullDateAlternateKey": "2019-02-13"
+    },
+    {
+        "DateKey": "20190214",
+        "FullDateAlternateKey": "2019-02-14"
+    },
+    {
+        "DateKey": "20190215",
+        "FullDateAlternateKey": "2019-02-15"
+    },
+    {
+        "DateKey": "20190216",
+        "FullDateAlternateKey": "2019-02-16"
+    },
+    {
+        "DateKey": "20190217",
+        "FullDateAlternateKey": "2019-02-17"
+    },
+    {
+        "DateKey": "20190218",
+        "FullDateAlternateKey": "2019-02-18"
+    },
+    {
+        "DateKey": "20190219",
+        "FullDateAlternateKey": "2019-02-19"
+    },
+    {
+        "DateKey": "20190220",
+        "FullDateAlternateKey": "2019-02-20"
+    },
+    {
+        "DateKey": "20190221",
+        "FullDateAlternateKey": "2019-02-21"
+    },
+    {
+        "DateKey": "20190222",
+        "FullDateAlternateKey": "2019-02-22"
+    },
+    {
+        "DateKey": "20190223",
+        "FullDateAlternateKey": "2019-02-23"
+    },
+    {
+        "DateKey": "20190224",
+        "FullDateAlternateKey": "2019-02-24"
+    },
+    {
+        "DateKey": "20190225",
+        "FullDateAlternateKey": "2019-02-25"
+    },
+    {
+        "DateKey": "20190226",
+        "FullDateAlternateKey": "2019-02-26"
+    },
+    {
+        "DateKey": "20190227",
+        "FullDateAlternateKey": "2019-02-27"
+    },
+    {
+        "DateKey": "20190228",
+        "FullDateAlternateKey": "2019-02-28"
+    },
+    {
+        "DateKey": "20190301",
+        "FullDateAlternateKey": "2019-03-01"
+    },
+    {
+        "DateKey": "20190302",
+        "FullDateAlternateKey": "2019-03-02"
+    },
+    {
+        "DateKey": "20190303",
+        "FullDateAlternateKey": "2019-03-03"
+    },
+    {
+        "DateKey": "20190304",
+        "FullDateAlternateKey": "2019-03-04"
+    },
+    {
+        "DateKey": "20190305",
+        "FullDateAlternateKey": "2019-03-05"
+    },
+    {
+        "DateKey": "20190306",
+        "FullDateAlternateKey": "2019-03-06"
+    },
+    {
+        "DateKey": "20190307",
+        "FullDateAlternateKey": "2019-03-07"
+    },
+    {
+        "DateKey": "20190308",
+        "FullDateAlternateKey": "2019-03-08"
+    },
+    {
+        "DateKey": "20190309",
+        "FullDateAlternateKey": "2019-03-09"
+    },
+    {
+        "DateKey": "20190310",
+        "FullDateAlternateKey": "2019-03-10"
+    },
+    {
+        "DateKey": "20190311",
+        "FullDateAlternateKey": "2019-03-11"
+    },
+    {
+        "DateKey": "20190312",
+        "FullDateAlternateKey": "2019-03-12"
+    },
+    {
+        "DateKey": "20190313",
+        "FullDateAlternateKey": "2019-03-13"
+    },
+    {
+        "DateKey": "20190314",
+        "FullDateAlternateKey": "2019-03-14"
+    },
+    {
+        "DateKey": "20190315",
+        "FullDateAlternateKey": "2019-03-15"
+    },
+    {
+        "DateKey": "20190316",
+        "FullDateAlternateKey": "2019-03-16"
+    },
+    {
+        "DateKey": "20190317",
+        "FullDateAlternateKey": "2019-03-17"
+    },
+    {
+        "DateKey": "20190318",
+        "FullDateAlternateKey": "2019-03-18"
+    },
+    {
+        "DateKey": "20190319",
+        "FullDateAlternateKey": "2019-03-19"
+    },
+    {
+        "DateKey": "20190320",
+        "FullDateAlternateKey": "2019-03-20"
+    },
+    {
+        "DateKey": "20190321",
+        "FullDateAlternateKey": "2019-03-21"
+    },
+    {
+        "DateKey": "20190322",
+        "FullDateAlternateKey": "2019-03-22"
+    },
+    {
+        "DateKey": "20190323",
+        "FullDateAlternateKey": "2019-03-23"
+    },
+    {
+        "DateKey": "20190324",
+        "FullDateAlternateKey": "2019-03-24"
+    },
+    {
+        "DateKey": "20190325",
+        "FullDateAlternateKey": "2019-03-25"
+    },
+    {
+        "DateKey": "20190326",
+        "FullDateAlternateKey": "2019-03-26"
+    },
+    {
+        "DateKey": "20190327",
+        "FullDateAlternateKey": "2019-03-27"
+    },
+    {
+        "DateKey": "20190328",
+        "FullDateAlternateKey": "2019-03-28"
+    },
+    {
+        "DateKey": "20190329",
+        "FullDateAlternateKey": "2019-03-29"
+    },
+    {
+        "DateKey": "20190330",
+        "FullDateAlternateKey": "2019-03-30"
+    },
+    {
+        "DateKey": "20190331",
+        "FullDateAlternateKey": "2019-03-31"
+    },
+    {
+        "DateKey": "20190401",
+        "FullDateAlternateKey": "2019-04-01"
+    },
+    {
+        "DateKey": "20190402",
+        "FullDateAlternateKey": "2019-04-02"
+    },
+    {
+        "DateKey": "20190403",
+        "FullDateAlternateKey": "2019-04-03"
+    },
+    {
+        "DateKey": "20190404",
+        "FullDateAlternateKey": "2019-04-04"
+    },
+    {
+        "DateKey": "20190405",
+        "FullDateAlternateKey": "2019-04-05"
+    },
+    {
+        "DateKey": "20190406",
+        "FullDateAlternateKey": "2019-04-06"
+    },
+    {
+        "DateKey": "20190407",
+        "FullDateAlternateKey": "2019-04-07"
+    },
+    {
+        "DateKey": "20190408",
+        "FullDateAlternateKey": "2019-04-08"
+    },
+    {
+        "DateKey": "20190409",
+        "FullDateAlternateKey": "2019-04-09"
+    },
+    {
+        "DateKey": "20190410",
+        "FullDateAlternateKey": "2019-04-10"
+    },
+    {
+        "DateKey": "20190411",
+        "FullDateAlternateKey": "2019-04-11"
+    },
+    {
+        "DateKey": "20190412",
+        "FullDateAlternateKey": "2019-04-12"
+    },
+    {
+        "DateKey": "20190413",
+        "FullDateAlternateKey": "2019-04-13"
+    },
+    {
+        "DateKey": "20190414",
+        "FullDateAlternateKey": "2019-04-14"
+    },
+    {
+        "DateKey": "20190415",
+        "FullDateAlternateKey": "2019-04-15"
+    },
+    {
+        "DateKey": "20190416",
+        "FullDateAlternateKey": "2019-04-16"
+    },
+    {
+        "DateKey": "20190417",
+        "FullDateAlternateKey": "2019-04-17"
+    },
+    {
+        "DateKey": "20190418",
+        "FullDateAlternateKey": "2019-04-18"
+    },
+    {
+        "DateKey": "20190419",
+        "FullDateAlternateKey": "2019-04-19"
+    },
+    {
+        "DateKey": "20190420",
+        "FullDateAlternateKey": "2019-04-20"
+    },
+    {
+        "DateKey": "20190421",
+        "FullDateAlternateKey": "2019-04-21"
+    },
+    {
+        "DateKey": "20190422",
+        "FullDateAlternateKey": "2019-04-22"
+    },
+    {
+        "DateKey": "20190423",
+        "FullDateAlternateKey": "2019-04-23"
+    },
+    {
+        "DateKey": "20190424",
+        "FullDateAlternateKey": "2019-04-24"
+    },
+    {
+        "DateKey": "20190425",
+        "FullDateAlternateKey": "2019-04-25"
+    },
+    {
+        "DateKey": "20190426",
+        "FullDateAlternateKey": "2019-04-26"
+    },
+    {
+        "DateKey": "20190427",
+        "FullDateAlternateKey": "2019-04-27"
+    },
+    {
+        "DateKey": "20190428",
+        "FullDateAlternateKey": "2019-04-28"
+    },
+    {
+        "DateKey": "20190429",
+        "FullDateAlternateKey": "2019-04-29"
+    },
+    {
+        "DateKey": "20190430",
+        "FullDateAlternateKey": "2019-04-30"
+    },
+    {
+        "DateKey": "20190501",
+        "FullDateAlternateKey": "2019-05-01"
+    },
+    {
+        "DateKey": "20190502",
+        "FullDateAlternateKey": "2019-05-02"
+    },
+    {
+        "DateKey": "20190503",
+        "FullDateAlternateKey": "2019-05-03"
+    },
+    {
+        "DateKey": "20190504",
+        "FullDateAlternateKey": "2019-05-04"
+    },
+    {
+        "DateKey": "20190505",
+        "FullDateAlternateKey": "2019-05-05"
+    },
+    {
+        "DateKey": "20190506",
+        "FullDateAlternateKey": "2019-05-06"
+    },
+    {
+        "DateKey": "20190507",
+        "FullDateAlternateKey": "2019-05-07"
+    },
+    {
+        "DateKey": "20190508",
+        "FullDateAlternateKey": "2019-05-08"
+    },
+    {
+        "DateKey": "20190509",
+        "FullDateAlternateKey": "2019-05-09"
+    },
+    {
+        "DateKey": "20190510",
+        "FullDateAlternateKey": "2019-05-10"
+    },
+    {
+        "DateKey": "20190511",
+        "FullDateAlternateKey": "2019-05-11"
+    },
+    {
+        "DateKey": "20190512",
+        "FullDateAlternateKey": "2019-05-12"
+    },
+    {
+        "DateKey": "20190513",
+        "FullDateAlternateKey": "2019-05-13"
+    },
+    {
+        "DateKey": "20190514",
+        "FullDateAlternateKey": "2019-05-14"
+    },
+    {
+        "DateKey": "20190515",
+        "FullDateAlternateKey": "2019-05-15"
+    },
+    {
+        "DateKey": "20190516",
+        "FullDateAlternateKey": "2019-05-16"
+    },
+    {
+        "DateKey": "20190517",
+        "FullDateAlternateKey": "2019-05-17"
+    },
+    {
+        "DateKey": "20190518",
+        "FullDateAlternateKey": "2019-05-18"
+    },
+    {
+        "DateKey": "20190519",
+        "FullDateAlternateKey": "2019-05-19"
+    },
+    {
+        "DateKey": "20190520",
+        "FullDateAlternateKey": "2019-05-20"
+    },
+    {
+        "DateKey": "20190521",
+        "FullDateAlternateKey": "2019-05-21"
+    },
+    {
+        "DateKey": "20190522",
+        "FullDateAlternateKey": "2019-05-22"
+    },
+    {
+        "DateKey": "20190523",
+        "FullDateAlternateKey": "2019-05-23"
+    },
+    {
+        "DateKey": "20190524",
+        "FullDateAlternateKey": "2019-05-24"
+    },
+    {
+        "DateKey": "20190525",
+        "FullDateAlternateKey": "2019-05-25"
+    },
+    {
+        "DateKey": "20190526",
+        "FullDateAlternateKey": "2019-05-26"
+    },
+    {
+        "DateKey": "20190527",
+        "FullDateAlternateKey": "2019-05-27"
+    },
+    {
+        "DateKey": "20190528",
+        "FullDateAlternateKey": "2019-05-28"
+    },
+    {
+        "DateKey": "20190529",
+        "FullDateAlternateKey": "2019-05-29"
+    },
+    {
+        "DateKey": "20190530",
+        "FullDateAlternateKey": "2019-05-30"
+    },
+    {
+        "DateKey": "20190531",
+        "FullDateAlternateKey": "2019-05-31"
+    },
+    {
+        "DateKey": "20190601",
+        "FullDateAlternateKey": "2019-06-01"
+    },
+    {
+        "DateKey": "20190602",
+        "FullDateAlternateKey": "2019-06-02"
+    },
+    {
+        "DateKey": "20190603",
+        "FullDateAlternateKey": "2019-06-03"
+    },
+    {
+        "DateKey": "20190604",
+        "FullDateAlternateKey": "2019-06-04"
+    },
+    {
+        "DateKey": "20190605",
+        "FullDateAlternateKey": "2019-06-05"
+    },
+    {
+        "DateKey": "20190606",
+        "FullDateAlternateKey": "2019-06-06"
+    },
+    {
+        "DateKey": "20190607",
+        "FullDateAlternateKey": "2019-06-07"
+    },
+    {
+        "DateKey": "20190608",
+        "FullDateAlternateKey": "2019-06-08"
+    },
+    {
+        "DateKey": "20190609",
+        "FullDateAlternateKey": "2019-06-09"
+    },
+    {
+        "DateKey": "20190610",
+        "FullDateAlternateKey": "2019-06-10"
+    },
+    {
+        "DateKey": "20190611",
+        "FullDateAlternateKey": "2019-06-11"
+    },
+    {
+        "DateKey": "20190612",
+        "FullDateAlternateKey": "2019-06-12"
+    },
+    {
+        "DateKey": "20190613",
+        "FullDateAlternateKey": "2019-06-13"
+    },
+    {
+        "DateKey": "20190614",
+        "FullDateAlternateKey": "2019-06-14"
+    },
+    {
+        "DateKey": "20190615",
+        "FullDateAlternateKey": "2019-06-15"
+    },
+    {
+        "DateKey": "20190616",
+        "FullDateAlternateKey": "2019-06-16"
+    },
+    {
+        "DateKey": "20190617",
+        "FullDateAlternateKey": "2019-06-17"
+    },
+    {
+        "DateKey": "20190618",
+        "FullDateAlternateKey": "2019-06-18"
+    },
+    {
+        "DateKey": "20190619",
+        "FullDateAlternateKey": "2019-06-19"
+    },
+    {
+        "DateKey": "20190620",
+        "FullDateAlternateKey": "2019-06-20"
+    },
+    {
+        "DateKey": "20190621",
+        "FullDateAlternateKey": "2019-06-21"
+    },
+    {
+        "DateKey": "20190622",
+        "FullDateAlternateKey": "2019-06-22"
+    },
+    {
+        "DateKey": "20190623",
+        "FullDateAlternateKey": "2019-06-23"
+    },
+    {
+        "DateKey": "20190624",
+        "FullDateAlternateKey": "2019-06-24"
+    },
+    {
+        "DateKey": "20190625",
+        "FullDateAlternateKey": "2019-06-25"
+    },
+    {
+        "DateKey": "20190626",
+        "FullDateAlternateKey": "2019-06-26"
+    },
+    {
+        "DateKey": "20190627",
+        "FullDateAlternateKey": "2019-06-27"
+    },
+    {
+        "DateKey": "20190628",
+        "FullDateAlternateKey": "2019-06-28"
+    },
+    {
+        "DateKey": "20190629",
+        "FullDateAlternateKey": "2019-06-29"
+    },
+    {
+        "DateKey": "20190630",
+        "FullDateAlternateKey": "2019-06-30"
+    },
+    {
+        "DateKey": "20190701",
+        "FullDateAlternateKey": "2019-07-01"
+    },
+    {
+        "DateKey": "20190702",
+        "FullDateAlternateKey": "2019-07-02"
+    },
+    {
+        "DateKey": "20190703",
+        "FullDateAlternateKey": "2019-07-03"
+    },
+    {
+        "DateKey": "20190704",
+        "FullDateAlternateKey": "2019-07-04"
+    },
+    {
+        "DateKey": "20190705",
+        "FullDateAlternateKey": "2019-07-05"
+    },
+    {
+        "DateKey": "20190706",
+        "FullDateAlternateKey": "2019-07-06"
+    },
+    {
+        "DateKey": "20190707",
+        "FullDateAlternateKey": "2019-07-07"
+    },
+    {
+        "DateKey": "20190708",
+        "FullDateAlternateKey": "2019-07-08"
+    },
+    {
+        "DateKey": "20190709",
+        "FullDateAlternateKey": "2019-07-09"
+    },
+    {
+        "DateKey": "20190710",
+        "FullDateAlternateKey": "2019-07-10"
+    },
+    {
+        "DateKey": "20190711",
+        "FullDateAlternateKey": "2019-07-11"
+    },
+    {
+        "DateKey": "20190712",
+        "FullDateAlternateKey": "2019-07-12"
+    },
+    {
+        "DateKey": "20190713",
+        "FullDateAlternateKey": "2019-07-13"
+    },
+    {
+        "DateKey": "20190714",
+        "FullDateAlternateKey": "2019-07-14"
+    },
+    {
+        "DateKey": "20190715",
+        "FullDateAlternateKey": "2019-07-15"
+    },
+    {
+        "DateKey": "20190716",
+        "FullDateAlternateKey": "2019-07-16"
+    },
+    {
+        "DateKey": "20190717",
+        "FullDateAlternateKey": "2019-07-17"
+    },
+    {
+        "DateKey": "20190718",
+        "FullDateAlternateKey": "2019-07-18"
+    },
+    {
+        "DateKey": "20190719",
+        "FullDateAlternateKey": "2019-07-19"
+    },
+    {
+        "DateKey": "20190720",
+        "FullDateAlternateKey": "2019-07-20"
+    },
+    {
+        "DateKey": "20190721",
+        "FullDateAlternateKey": "2019-07-21"
+    },
+    {
+        "DateKey": "20190722",
+        "FullDateAlternateKey": "2019-07-22"
+    },
+    {
+        "DateKey": "20190723",
+        "FullDateAlternateKey": "2019-07-23"
+    },
+    {
+        "DateKey": "20190724",
+        "FullDateAlternateKey": "2019-07-24"
+    },
+    {
+        "DateKey": "20190725",
+        "FullDateAlternateKey": "2019-07-25"
+    },
+    {
+        "DateKey": "20190726",
+        "FullDateAlternateKey": "2019-07-26"
+    },
+    {
+        "DateKey": "20190727",
+        "FullDateAlternateKey": "2019-07-27"
+    },
+    {
+        "DateKey": "20190728",
+        "FullDateAlternateKey": "2019-07-28"
+    },
+    {
+        "DateKey": "20190729",
+        "FullDateAlternateKey": "2019-07-29"
+    },
+    {
+        "DateKey": "20190730",
+        "FullDateAlternateKey": "2019-07-30"
+    },
+    {
+        "DateKey": "20190731",
+        "FullDateAlternateKey": "2019-07-31"
+    },
+    {
+        "DateKey": "20190801",
+        "FullDateAlternateKey": "2019-08-01"
+    },
+    {
+        "DateKey": "20190802",
+        "FullDateAlternateKey": "2019-08-02"
+    },
+    {
+        "DateKey": "20190803",
+        "FullDateAlternateKey": "2019-08-03"
+    },
+    {
+        "DateKey": "20190804",
+        "FullDateAlternateKey": "2019-08-04"
+    },
+    {
+        "DateKey": "20190805",
+        "FullDateAlternateKey": "2019-08-05"
+    },
+    {
+        "DateKey": "20190806",
+        "FullDateAlternateKey": "2019-08-06"
+    },
+    {
+        "DateKey": "20190807",
+        "FullDateAlternateKey": "2019-08-07"
+    },
+    {
+        "DateKey": "20190808",
+        "FullDateAlternateKey": "2019-08-08"
+    },
+    {
+        "DateKey": "20190809",
+        "FullDateAlternateKey": "2019-08-09"
+    },
+    {
+        "DateKey": "20190810",
+        "FullDateAlternateKey": "2019-08-10"
+    },
+    {
+        "DateKey": "20190811",
+        "FullDateAlternateKey": "2019-08-11"
+    },
+    {
+        "DateKey": "20190812",
+        "FullDateAlternateKey": "2019-08-12"
+    },
+    {
+        "DateKey": "20190813",
+        "FullDateAlternateKey": "2019-08-13"
+    },
+    {
+        "DateKey": "20190814",
+        "FullDateAlternateKey": "2019-08-14"
+    },
+    {
+        "DateKey": "20190815",
+        "FullDateAlternateKey": "2019-08-15"
+    },
+    {
+        "DateKey": "20190816",
+        "FullDateAlternateKey": "2019-08-16"
+    },
+    {
+        "DateKey": "20190817",
+        "FullDateAlternateKey": "2019-08-17"
+    },
+    {
+        "DateKey": "20190818",
+        "FullDateAlternateKey": "2019-08-18"
+    },
+    {
+        "DateKey": "20190819",
+        "FullDateAlternateKey": "2019-08-19"
+    },
+    {
+        "DateKey": "20190820",
+        "FullDateAlternateKey": "2019-08-20"
+    },
+    {
+        "DateKey": "20190821",
+        "FullDateAlternateKey": "2019-08-21"
+    },
+    {
+        "DateKey": "20190822",
+        "FullDateAlternateKey": "2019-08-22"
+    },
+    {
+        "DateKey": "20190823",
+        "FullDateAlternateKey": "2019-08-23"
+    },
+    {
+        "DateKey": "20190824",
+        "FullDateAlternateKey": "2019-08-24"
+    },
+    {
+        "DateKey": "20190825",
+        "FullDateAlternateKey": "2019-08-25"
+    },
+    {
+        "DateKey": "20190826",
+        "FullDateAlternateKey": "2019-08-26"
+    },
+    {
+        "DateKey": "20190827",
+        "FullDateAlternateKey": "2019-08-27"
+    },
+    {
+        "DateKey": "20190828",
+        "FullDateAlternateKey": "2019-08-28"
+    },
+    {
+        "DateKey": "20190829",
+        "FullDateAlternateKey": "2019-08-29"
+    },
+    {
+        "DateKey": "20190830",
+        "FullDateAlternateKey": "2019-08-30"
+    },
+    {
+        "DateKey": "20190831",
+        "FullDateAlternateKey": "2019-08-31"
+    },
+    {
+        "DateKey": "20190901",
+        "FullDateAlternateKey": "2019-09-01"
+    },
+    {
+        "DateKey": "20190902",
+        "FullDateAlternateKey": "2019-09-02"
+    },
+    {
+        "DateKey": "20190903",
+        "FullDateAlternateKey": "2019-09-03"
+    },
+    {
+        "DateKey": "20190904",
+        "FullDateAlternateKey": "2019-09-04"
+    },
+    {
+        "DateKey": "20190905",
+        "FullDateAlternateKey": "2019-09-05"
+    },
+    {
+        "DateKey": "20190906",
+        "FullDateAlternateKey": "2019-09-06"
+    },
+    {
+        "DateKey": "20190907",
+        "FullDateAlternateKey": "2019-09-07"
+    },
+    {
+        "DateKey": "20190908",
+        "FullDateAlternateKey": "2019-09-08"
+    },
+    {
+        "DateKey": "20190909",
+        "FullDateAlternateKey": "2019-09-09"
+    },
+    {
+        "DateKey": "20190910",
+        "FullDateAlternateKey": "2019-09-10"
+    },
+    {
+        "DateKey": "20190911",
+        "FullDateAlternateKey": "2019-09-11"
+    },
+    {
+        "DateKey": "20190912",
+        "FullDateAlternateKey": "2019-09-12"
+    },
+    {
+        "DateKey": "20190913",
+        "FullDateAlternateKey": "2019-09-13"
+    },
+    {
+        "DateKey": "20190914",
+        "FullDateAlternateKey": "2019-09-14"
+    },
+    {
+        "DateKey": "20190915",
+        "FullDateAlternateKey": "2019-09-15"
+    },
+    {
+        "DateKey": "20190916",
+        "FullDateAlternateKey": "2019-09-16"
+    },
+    {
+        "DateKey": "20190917",
+        "FullDateAlternateKey": "2019-09-17"
+    },
+    {
+        "DateKey": "20190918",
+        "FullDateAlternateKey": "2019-09-18"
+    },
+    {
+        "DateKey": "20190919",
+        "FullDateAlternateKey": "2019-09-19"
+    },
+    {
+        "DateKey": "20190920",
+        "FullDateAlternateKey": "2019-09-20"
+    },
+    {
+        "DateKey": "20190921",
+        "FullDateAlternateKey": "2019-09-21"
+    },
+    {
+        "DateKey": "20190922",
+        "FullDateAlternateKey": "2019-09-22"
+    },
+    {
+        "DateKey": "20190923",
+        "FullDateAlternateKey": "2019-09-23"
+    },
+    {
+        "DateKey": "20190924",
+        "FullDateAlternateKey": "2019-09-24"
+    },
+    {
+        "DateKey": "20190925",
+        "FullDateAlternateKey": "2019-09-25"
+    },
+    {
+        "DateKey": "20190926",
+        "FullDateAlternateKey": "2019-09-26"
+    },
+    {
+        "DateKey": "20190927",
+        "FullDateAlternateKey": "2019-09-27"
+    },
+    {
+        "DateKey": "20190928",
+        "FullDateAlternateKey": "2019-09-28"
+    },
+    {
+        "DateKey": "20190929",
+        "FullDateAlternateKey": "2019-09-29"
+    },
+    {
+        "DateKey": "20190930",
+        "FullDateAlternateKey": "2019-09-30"
+    },
+    {
+        "DateKey": "20191001",
+        "FullDateAlternateKey": "2019-10-01"
+    },
+    {
+        "DateKey": "20191002",
+        "FullDateAlternateKey": "2019-10-02"
+    },
+    {
+        "DateKey": "20191003",
+        "FullDateAlternateKey": "2019-10-03"
+    },
+    {
+        "DateKey": "20191004",
+        "FullDateAlternateKey": "2019-10-04"
+    },
+    {
+        "DateKey": "20191005",
+        "FullDateAlternateKey": "2019-10-05"
+    },
+    {
+        "DateKey": "20191006",
+        "FullDateAlternateKey": "2019-10-06"
+    },
+    {
+        "DateKey": "20191007",
+        "FullDateAlternateKey": "2019-10-07"
+    },
+    {
+        "DateKey": "20191008",
+        "FullDateAlternateKey": "2019-10-08"
+    },
+    {
+        "DateKey": "20191009",
+        "FullDateAlternateKey": "2019-10-09"
+    },
+    {
+        "DateKey": "20191010",
+        "FullDateAlternateKey": "2019-10-10"
+    },
+    {
+        "DateKey": "20191011",
+        "FullDateAlternateKey": "2019-10-11"
+    },
+    {
+        "DateKey": "20191012",
+        "FullDateAlternateKey": "2019-10-12"
+    },
+    {
+        "DateKey": "20191013",
+        "FullDateAlternateKey": "2019-10-13"
+    },
+    {
+        "DateKey": "20191014",
+        "FullDateAlternateKey": "2019-10-14"
+    },
+    {
+        "DateKey": "20191015",
+        "FullDateAlternateKey": "2019-10-15"
+    },
+    {
+        "DateKey": "20191016",
+        "FullDateAlternateKey": "2019-10-16"
+    },
+    {
+        "DateKey": "20191017",
+        "FullDateAlternateKey": "2019-10-17"
+    },
+    {
+        "DateKey": "20191018",
+        "FullDateAlternateKey": "2019-10-18"
+    },
+    {
+        "DateKey": "20191019",
+        "FullDateAlternateKey": "2019-10-19"
+    },
+    {
+        "DateKey": "20191020",
+        "FullDateAlternateKey": "2019-10-20"
+    },
+    {
+        "DateKey": "20191021",
+        "FullDateAlternateKey": "2019-10-21"
+    },
+    {
+        "DateKey": "20191022",
+        "FullDateAlternateKey": "2019-10-22"
+    },
+    {
+        "DateKey": "20191023",
+        "FullDateAlternateKey": "2019-10-23"
+    },
+    {
+        "DateKey": "20191024",
+        "FullDateAlternateKey": "2019-10-24"
+    },
+    {
+        "DateKey": "20191025",
+        "FullDateAlternateKey": "2019-10-25"
+    },
+    {
+        "DateKey": "20191026",
+        "FullDateAlternateKey": "2019-10-26"
+    },
+    {
+        "DateKey": "20191027",
+        "FullDateAlternateKey": "2019-10-27"
+    },
+    {
+        "DateKey": "20191028",
+        "FullDateAlternateKey": "2019-10-28"
+    },
+    {
+        "DateKey": "20191029",
+        "FullDateAlternateKey": "2019-10-29"
+    },
+    {
+        "DateKey": "20191030",
+        "FullDateAlternateKey": "2019-10-30"
+    },
+    {
+        "DateKey": "20191031",
+        "FullDateAlternateKey": "2019-10-31"
+    },
+    {
+        "DateKey": "20191101",
+        "FullDateAlternateKey": "2019-11-01"
+    },
+    {
+        "DateKey": "20191102",
+        "FullDateAlternateKey": "2019-11-02"
+    },
+    {
+        "DateKey": "20191103",
+        "FullDateAlternateKey": "2019-11-03"
+    },
+    {
+        "DateKey": "20191104",
+        "FullDateAlternateKey": "2019-11-04"
+    },
+    {
+        "DateKey": "20191105",
+        "FullDateAlternateKey": "2019-11-05"
+    },
+    {
+        "DateKey": "20191106",
+        "FullDateAlternateKey": "2019-11-06"
+    },
+    {
+        "DateKey": "20191107",
+        "FullDateAlternateKey": "2019-11-07"
+    },
+    {
+        "DateKey": "20191108",
+        "FullDateAlternateKey": "2019-11-08"
+    },
+    {
+        "DateKey": "20191109",
+        "FullDateAlternateKey": "2019-11-09"
+    },
+    {
+        "DateKey": "20191110",
+        "FullDateAlternateKey": "2019-11-10"
+    },
+    {
+        "DateKey": "20191111",
+        "FullDateAlternateKey": "2019-11-11"
+    },
+    {
+        "DateKey": "20191112",
+        "FullDateAlternateKey": "2019-11-12"
+    },
+    {
+        "DateKey": "20191113",
+        "FullDateAlternateKey": "2019-11-13"
+    },
+    {
+        "DateKey": "20191114",
+        "FullDateAlternateKey": "2019-11-14"
+    },
+    {
+        "DateKey": "20191115",
+        "FullDateAlternateKey": "2019-11-15"
+    },
+    {
+        "DateKey": "20191116",
+        "FullDateAlternateKey": "2019-11-16"
+    },
+    {
+        "DateKey": "20191117",
+        "FullDateAlternateKey": "2019-11-17"
+    },
+    {
+        "DateKey": "20191118",
+        "FullDateAlternateKey": "2019-11-18"
+    },
+    {
+        "DateKey": "20191119",
+        "FullDateAlternateKey": "2019-11-19"
+    },
+    {
+        "DateKey": "20191120",
+        "FullDateAlternateKey": "2019-11-20"
+    },
+    {
+        "DateKey": "20191121",
+        "FullDateAlternateKey": "2019-11-21"
+    },
+    {
+        "DateKey": "20191122",
+        "FullDateAlternateKey": "2019-11-22"
+    },
+    {
+        "DateKey": "20191123",
+        "FullDateAlternateKey": "2019-11-23"
+    },
+    {
+        "DateKey": "20191124",
+        "FullDateAlternateKey": "2019-11-24"
+    },
+    {
+        "DateKey": "20191125",
+        "FullDateAlternateKey": "2019-11-25"
+    },
+    {
+        "DateKey": "20191126",
+        "FullDateAlternateKey": "2019-11-26"
+    },
+    {
+        "DateKey": "20191127",
+        "FullDateAlternateKey": "2019-11-27"
+    },
+    {
+        "DateKey": "20191128",
+        "FullDateAlternateKey": "2019-11-28"
+    },
+    {
+        "DateKey": "20191129",
+        "FullDateAlternateKey": "2019-11-29"
+    },
+    {
+        "DateKey": "20191130",
+        "FullDateAlternateKey": "2019-11-30"
+    },
+    {
+        "DateKey": "20191201",
+        "FullDateAlternateKey": "2019-12-01"
+    },
+    {
+        "DateKey": "20191202",
+        "FullDateAlternateKey": "2019-12-02"
+    },
+    {
+        "DateKey": "20191203",
+        "FullDateAlternateKey": "2019-12-03"
+    },
+    {
+        "DateKey": "20191204",
+        "FullDateAlternateKey": "2019-12-04"
+    },
+    {
+        "DateKey": "20191205",
+        "FullDateAlternateKey": "2019-12-05"
+    },
+    {
+        "DateKey": "20191206",
+        "FullDateAlternateKey": "2019-12-06"
+    },
+    {
+        "DateKey": "20191207",
+        "FullDateAlternateKey": "2019-12-07"
+    },
+    {
+        "DateKey": "20191208",
+        "FullDateAlternateKey": "2019-12-08"
+    },
+    {
+        "DateKey": "20191209",
+        "FullDateAlternateKey": "2019-12-09"
+    },
+    {
+        "DateKey": "20191210",
+        "FullDateAlternateKey": "2019-12-10"
+    },
+    {
+        "DateKey": "20191211",
+        "FullDateAlternateKey": "2019-12-11"
+    },
+    {
+        "DateKey": "20191212",
+        "FullDateAlternateKey": "2019-12-12"
+    },
+    {
+        "DateKey": "20191213",
+        "FullDateAlternateKey": "2019-12-13"
+    },
+    {
+        "DateKey": "20191214",
+        "FullDateAlternateKey": "2019-12-14"
+    },
+    {
+        "DateKey": "20191215",
+        "FullDateAlternateKey": "2019-12-15"
+    },
+    {
+        "DateKey": "20191216",
+        "FullDateAlternateKey": "2019-12-16"
+    },
+    {
+        "DateKey": "20191217",
+        "FullDateAlternateKey": "2019-12-17"
+    },
+    {
+        "DateKey": "20191218",
+        "FullDateAlternateKey": "2019-12-18"
+    },
+    {
+        "DateKey": "20191219",
+        "FullDateAlternateKey": "2019-12-19"
+    },
+    {
+        "DateKey": "20191220",
+        "FullDateAlternateKey": "2019-12-20"
+    },
+    {
+        "DateKey": "20191221",
+        "FullDateAlternateKey": "2019-12-21"
+    },
+    {
+        "DateKey": "20191222",
+        "FullDateAlternateKey": "2019-12-22"
+    },
+    {
+        "DateKey": "20191223",
+        "FullDateAlternateKey": "2019-12-23"
+    },
+    {
+        "DateKey": "20191224",
+        "FullDateAlternateKey": "2019-12-24"
+    },
+    {
+        "DateKey": "20191225",
+        "FullDateAlternateKey": "2019-12-25"
+    },
+    {
+        "DateKey": "20191226",
+        "FullDateAlternateKey": "2019-12-26"
+    },
+    {
+        "DateKey": "20191227",
+        "FullDateAlternateKey": "2019-12-27"
+    },
+    {
+        "DateKey": "20191228",
+        "FullDateAlternateKey": "2019-12-28"
+    },
+    {
+        "DateKey": "20191229",
+        "FullDateAlternateKey": "2019-12-29"
+    },
+    {
+        "DateKey": "20191230",
+        "FullDateAlternateKey": "2019-12-30"
+    },
+    {
+        "DateKey": "20191231",
+        "FullDateAlternateKey": "2019-12-31"
+    },
+    {
+        "DateKey": "20200101",
+        "FullDateAlternateKey": "2020-01-01"
+    },
+    {
+        "DateKey": "20200102",
+        "FullDateAlternateKey": "2020-01-02"
+    },
+    {
+        "DateKey": "20200103",
+        "FullDateAlternateKey": "2020-01-03"
+    },
+    {
+        "DateKey": "20200104",
+        "FullDateAlternateKey": "2020-01-04"
+    },
+    {
+        "DateKey": "20200105",
+        "FullDateAlternateKey": "2020-01-05"
+    },
+    {
+        "DateKey": "20200106",
+        "FullDateAlternateKey": "2020-01-06"
+    },
+    {
+        "DateKey": "20200107",
+        "FullDateAlternateKey": "2020-01-07"
+    },
+    {
+        "DateKey": "20200108",
+        "FullDateAlternateKey": "2020-01-08"
+    },
+    {
+        "DateKey": "20200109",
+        "FullDateAlternateKey": "2020-01-09"
+    },
+    {
+        "DateKey": "20200110",
+        "FullDateAlternateKey": "2020-01-10"
+    },
+    {
+        "DateKey": "20200111",
+        "FullDateAlternateKey": "2020-01-11"
+    },
+    {
+        "DateKey": "20200112",
+        "FullDateAlternateKey": "2020-01-12"
+    },
+    {
+        "DateKey": "20200113",
+        "FullDateAlternateKey": "2020-01-13"
+    },
+    {
+        "DateKey": "20200114",
+        "FullDateAlternateKey": "2020-01-14"
+    },
+    {
+        "DateKey": "20200115",
+        "FullDateAlternateKey": "2020-01-15"
+    },
+    {
+        "DateKey": "20200116",
+        "FullDateAlternateKey": "2020-01-16"
+    },
+    {
+        "DateKey": "20200117",
+        "FullDateAlternateKey": "2020-01-17"
+    },
+    {
+        "DateKey": "20200118",
+        "FullDateAlternateKey": "2020-01-18"
+    },
+    {
+        "DateKey": "20200119",
+        "FullDateAlternateKey": "2020-01-19"
+    },
+    {
+        "DateKey": "20200120",
+        "FullDateAlternateKey": "2020-01-20"
+    },
+    {
+        "DateKey": "20200121",
+        "FullDateAlternateKey": "2020-01-21"
+    },
+    {
+        "DateKey": "20200122",
+        "FullDateAlternateKey": "2020-01-22"
+    },
+    {
+        "DateKey": "20200123",
+        "FullDateAlternateKey": "2020-01-23"
+    },
+    {
+        "DateKey": "20200124",
+        "FullDateAlternateKey": "2020-01-24"
+    },
+    {
+        "DateKey": "20200125",
+        "FullDateAlternateKey": "2020-01-25"
+    },
+    {
+        "DateKey": "20200126",
+        "FullDateAlternateKey": "2020-01-26"
+    },
+    {
+        "DateKey": "20200127",
+        "FullDateAlternateKey": "2020-01-27"
+    },
+    {
+        "DateKey": "20200128",
+        "FullDateAlternateKey": "2020-01-28"
+    },
+    {
+        "DateKey": "20200129",
+        "FullDateAlternateKey": "2020-01-29"
+    },
+    {
+        "DateKey": "20200130",
+        "FullDateAlternateKey": "2020-01-30"
+    },
+    {
+        "DateKey": "20200131",
+        "FullDateAlternateKey": "2020-01-31"
+    },
+    {
+        "DateKey": "20200201",
+        "FullDateAlternateKey": "2020-02-01"
+    },
+    {
+        "DateKey": "20200202",
+        "FullDateAlternateKey": "2020-02-02"
+    },
+    {
+        "DateKey": "20200203",
+        "FullDateAlternateKey": "2020-02-03"
+    },
+    {
+        "DateKey": "20200204",
+        "FullDateAlternateKey": "2020-02-04"
+    },
+    {
+        "DateKey": "20200205",
+        "FullDateAlternateKey": "2020-02-05"
+    },
+    {
+        "DateKey": "20200206",
+        "FullDateAlternateKey": "2020-02-06"
+    },
+    {
+        "DateKey": "20200207",
+        "FullDateAlternateKey": "2020-02-07"
+    },
+    {
+        "DateKey": "20200208",
+        "FullDateAlternateKey": "2020-02-08"
+    },
+    {
+        "DateKey": "20200209",
+        "FullDateAlternateKey": "2020-02-09"
+    },
+    {
+        "DateKey": "20200210",
+        "FullDateAlternateKey": "2020-02-10"
+    },
+    {
+        "DateKey": "20200211",
+        "FullDateAlternateKey": "2020-02-11"
+    },
+    {
+        "DateKey": "20200212",
+        "FullDateAlternateKey": "2020-02-12"
+    },
+    {
+        "DateKey": "20200213",
+        "FullDateAlternateKey": "2020-02-13"
+    },
+    {
+        "DateKey": "20200214",
+        "FullDateAlternateKey": "2020-02-14"
+    },
+    {
+        "DateKey": "20200215",
+        "FullDateAlternateKey": "2020-02-15"
+    },
+    {
+        "DateKey": "20200216",
+        "FullDateAlternateKey": "2020-02-16"
+    },
+    {
+        "DateKey": "20200217",
+        "FullDateAlternateKey": "2020-02-17"
+    },
+    {
+        "DateKey": "20200218",
+        "FullDateAlternateKey": "2020-02-18"
+    },
+    {
+        "DateKey": "20200219",
+        "FullDateAlternateKey": "2020-02-19"
+    },
+    {
+        "DateKey": "20200220",
+        "FullDateAlternateKey": "2020-02-20"
+    },
+    {
+        "DateKey": "20200221",
+        "FullDateAlternateKey": "2020-02-21"
+    },
+    {
+        "DateKey": "20200222",
+        "FullDateAlternateKey": "2020-02-22"
+    },
+    {
+        "DateKey": "20200223",
+        "FullDateAlternateKey": "2020-02-23"
+    },
+    {
+        "DateKey": "20200224",
+        "FullDateAlternateKey": "2020-02-24"
+    },
+    {
+        "DateKey": "20200225",
+        "FullDateAlternateKey": "2020-02-25"
+    },
+    {
+        "DateKey": "20200226",
+        "FullDateAlternateKey": "2020-02-26"
+    },
+    {
+        "DateKey": "20200227",
+        "FullDateAlternateKey": "2020-02-27"
+    },
+    {
+        "DateKey": "20200228",
+        "FullDateAlternateKey": "2020-02-28"
+    },
+    {
+        "DateKey": "20200229",
+        "FullDateAlternateKey": "2020-02-29"
+    },
+    {
+        "DateKey": "20200301",
+        "FullDateAlternateKey": "2020-03-01"
+    },
+    {
+        "DateKey": "20200302",
+        "FullDateAlternateKey": "2020-03-02"
+    },
+    {
+        "DateKey": "20200303",
+        "FullDateAlternateKey": "2020-03-03"
+    },
+    {
+        "DateKey": "20200304",
+        "FullDateAlternateKey": "2020-03-04"
+    },
+    {
+        "DateKey": "20200305",
+        "FullDateAlternateKey": "2020-03-05"
+    },
+    {
+        "DateKey": "20200306",
+        "FullDateAlternateKey": "2020-03-06"
+    },
+    {
+        "DateKey": "20200307",
+        "FullDateAlternateKey": "2020-03-07"
+    },
+    {
+        "DateKey": "20200308",
+        "FullDateAlternateKey": "2020-03-08"
+    },
+    {
+        "DateKey": "20200309",
+        "FullDateAlternateKey": "2020-03-09"
+    },
+    {
+        "DateKey": "20200310",
+        "FullDateAlternateKey": "2020-03-10"
+    },
+    {
+        "DateKey": "20200311",
+        "FullDateAlternateKey": "2020-03-11"
+    },
+    {
+        "DateKey": "20200312",
+        "FullDateAlternateKey": "2020-03-12"
+    },
+    {
+        "DateKey": "20200313",
+        "FullDateAlternateKey": "2020-03-13"
+    },
+    {
+        "DateKey": "20200314",
+        "FullDateAlternateKey": "2020-03-14"
+    },
+    {
+        "DateKey": "20200315",
+        "FullDateAlternateKey": "2020-03-15"
+    },
+    {
+        "DateKey": "20200316",
+        "FullDateAlternateKey": "2020-03-16"
+    },
+    {
+        "DateKey": "20200317",
+        "FullDateAlternateKey": "2020-03-17"
+    },
+    {
+        "DateKey": "20200318",
+        "FullDateAlternateKey": "2020-03-18"
+    },
+    {
+        "DateKey": "20200319",
+        "FullDateAlternateKey": "2020-03-19"
+    },
+    {
+        "DateKey": "20200320",
+        "FullDateAlternateKey": "2020-03-20"
+    },
+    {
+        "DateKey": "20200321",
+        "FullDateAlternateKey": "2020-03-21"
+    },
+    {
+        "DateKey": "20200322",
+        "FullDateAlternateKey": "2020-03-22"
+    },
+    {
+        "DateKey": "20200323",
+        "FullDateAlternateKey": "2020-03-23"
+    },
+    {
+        "DateKey": "20200324",
+        "FullDateAlternateKey": "2020-03-24"
+    },
+    {
+        "DateKey": "20200325",
+        "FullDateAlternateKey": "2020-03-25"
+    },
+    {
+        "DateKey": "20200326",
+        "FullDateAlternateKey": "2020-03-26"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "ProductCategoryKey,ProductCategoryAlternateKey,EnglishProductCategoryName,SpanishProductCategoryName,FrenchProductCategoryName": "1,1,Bikes,Bicicleta,Vélo"
+    },
+    {
+        "ProductCategoryKey,ProductCategoryAlternateKey,EnglishProductCategoryName,SpanishProductCategoryName,FrenchProductCategoryName": "2,2,Components,Componente,Composant"
+    },
+    {
+        "ProductCategoryKey,ProductCategoryAlternateKey,EnglishProductCategoryName,SpanishProductCategoryName,FrenchProductCategoryName": "3,3,Clothing,Prenda,Vêtements"
+    },
+    {
+        "ProductCategoryKey,ProductCategoryAlternateKey,EnglishProductCategoryName,SpanishProductCategoryName,FrenchProductCategoryName": "4,4,Accessories,Accesorio,Accessoire"
+    }
+]

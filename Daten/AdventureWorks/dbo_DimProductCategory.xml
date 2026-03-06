@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2026-03-06T19:01:14">
+<dbo_DimProductCategory>
+<ProductCategoryKey>1</ProductCategoryKey>
+<ProductCategoryAlternateKey>1</ProductCategoryAlternateKey>
+<EnglishProductCategoryName>Bikes</EnglishProductCategoryName>
+<SpanishProductCategoryName>Bicicleta</SpanishProductCategoryName>
+<FrenchProductCategoryName>Vélo</FrenchProductCategoryName>
+</dbo_DimProductCategory>
+<dbo_DimProductCategory>
+<ProductCategoryKey>2</ProductCategoryKey>
+<ProductCategoryAlternateKey>2</ProductCategoryAlternateKey>
+<EnglishProductCategoryName>Components</EnglishProductCategoryName>
+<SpanishProductCategoryName>Componente</SpanishProductCategoryName>
+<FrenchProductCategoryName>Composant</FrenchProductCategoryName>
+</dbo_DimProductCategory>
+<dbo_DimProductCategory>
+<ProductCategoryKey>3</ProductCategoryKey>
+<ProductCategoryAlternateKey>3</ProductCategoryAlternateKey>
+<EnglishProductCategoryName>Clothing</EnglishProductCategoryName>
+<SpanishProductCategoryName>Prenda</SpanishProductCategoryName>
+<FrenchProductCategoryName>Vêtements</FrenchProductCategoryName>
+</dbo_DimProductCategory>
+<dbo_DimProductCategory>
+<ProductCategoryKey>4</ProductCategoryKey>
+<ProductCategoryAlternateKey>4</ProductCategoryAlternateKey>
+<EnglishProductCategoryName>Accessories</EnglishProductCategoryName>
+<SpanishProductCategoryName>Accesorio</SpanishProductCategoryName>
+<FrenchProductCategoryName>Accessoire</FrenchProductCategoryName>
+</dbo_DimProductCategory>
+</dataroot>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2026-03-06T18:57:45">
+<dbo_DimOrganization>
+<OrganizationKey>1</OrganizationKey>
+<PercentageOfOwnership>1</PercentageOfOwnership>
+<OrganizationName>AdventureWorks Cycle</OrganizationName>
+<CurrencyKey>100</CurrencyKey>
+</dbo_DimOrganization>
+<dbo_DimOrganization>
+<OrganizationKey>2</OrganizationKey>
+<ParentOrganizationKey>1</ParentOrganizationKey>
+<PercentageOfOwnership>1</PercentageOfOwnership>
+<OrganizationName>North America Operations</OrganizationName>
+<CurrencyKey>100</CurrencyKey>
+</dbo_DimOrganization>
+<dbo_DimOrganization>
+<OrganizationKey>3</OrganizationKey>
+<ParentOrganizationKey>14</ParentOrganizationKey>
+<PercentageOfOwnership>1</PercentageOfOwnership>
+<OrganizationName>Northeast Division</OrganizationName>
+<CurrencyKey>100</CurrencyKey>
+</dbo_DimOrganization>
+<dbo_DimOrganization>
+<OrganizationKey>4</OrganizationKey>
+<ParentOrganizationKey>14</ParentOrganizationKey>
+<PercentageOfOwnership>1</PercentageOfOwnership>
+<OrganizationName>Northwest Division</OrganizationName>
+<CurrencyKey>100</CurrencyKey>
+</dbo_DimOrganization>
+<dbo_DimOrganization>
+<OrganizationKey>5</OrganizationKey>
+<ParentOrganizationKey>14</ParentOrganizationKey>
+<PercentageOfOwnership>1</PercentageOfOwnership>
+<OrganizationName>Central Division</OrganizationName>
+<CurrencyKey>100</CurrencyKey>
+</dbo_DimOrganization>
+<dbo_DimOrganization>
+<OrganizationKey>6</OrganizationKey>
+<ParentOrganizationKey>14</ParentOrganizationKey>
+<PercentageOfOwnership>1</PercentageOfOwnership>
+<OrganizationName>Southeast Division</OrganizationName>
+<CurrencyKey>100</CurrencyKey>
+</dbo_DimOrganization>
+<dbo_DimOrganization>
+<OrganizationKey>7</OrganizationKey>
+<ParentOrganizationKey>14</ParentOrganizationKey>
+<PercentageOfOwnership>1</PercentageOfOwnership>
+<OrganizationName>Southwest Division</OrganizationName>
+<CurrencyKey>100</CurrencyKey>
+</dbo_DimOrganization>
+<dbo_DimOrganization>
+<OrganizationKey>8</OrganizationKey>
+<ParentOrganizationKey>2</ParentOrganizationKey>
+<PercentageOfOwnership>.75</PercentageOfOwnership>
+<OrganizationName>Canadian Division</OrganizationName>
+<CurrencyKey>19</CurrencyKey>
+</dbo_DimOrganization>
+<dbo_DimOrganization>
+<OrganizationKey>9</OrganizationKey>
+<ParentOrganizationKey>1</ParentOrganizationKey>
+<PercentageOfOwnership>1</PercentageOfOwnership>
+<OrganizationName>European Operations</OrganizationName>
+<CurrencyKey>36</CurrencyKey>
+</dbo_DimOrganization>
+<dbo_DimOrganization>
+<OrganizationKey>10</OrganizationKey>
+<ParentOrganizationKey>1</ParentOrganizationKey>
+<PercentageOfOwnership>.75</PercentageOfOwnership>
+<OrganizationName>Pacific Operations</OrganizationName>
+<CurrencyKey>6</CurrencyKey>
+</dbo_DimOrganization>
+<dbo_DimOrganization>
+<OrganizationKey>11</OrganizationKey>
+<ParentOrganizationKey>9</ParentOrganizationKey>
+<PercentageOfOwnership>.50</PercentageOfOwnership>
+<OrganizationName>France</OrganizationName>
+<CurrencyKey>36</CurrencyKey>
+</dbo_DimOrganization>
+<dbo_DimOrganization>
+<OrganizationKey>12</OrganizationKey>
+<ParentOrganizationKey>9</ParentOrganizationKey>
+<PercentageOfOwnership>.25</PercentageOfOwnership>
+<OrganizationName>Germany</OrganizationName>
+<CurrencyKey>36</CurrencyKey>
+</dbo_DimOrganization>
+<dbo_DimOrganization>
+<OrganizationKey>13</OrganizationKey>
+<ParentOrganizationKey>10</ParentOrganizationKey>
+<PercentageOfOwnership>.50</PercentageOfOwnership>
+<OrganizationName>Australia</OrganizationName>
+<CurrencyKey>6</CurrencyKey>
+</dbo_DimOrganization>
+<dbo_DimOrganization>
+<OrganizationKey>14</OrganizationKey>
+<ParentOrganizationKey>2</ParentOrganizationKey>
+<PercentageOfOwnership>1</PercentageOfOwnership>
+<OrganizationName>USA Operations</OrganizationName>
+<CurrencyKey>100</CurrencyKey>
+</dbo_DimOrganization>
+</dataroot>

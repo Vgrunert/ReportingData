@@ -1,0 +1,23 @@
+[
+    {
+        "DepartmentGroupKey,ParentDepartmentGroupKey,DepartmentGroupName": "1,,Corporate"
+    },
+    {
+        "DepartmentGroupKey,ParentDepartmentGroupKey,DepartmentGroupName": "2,1,Executive General and Administration"
+    },
+    {
+        "DepartmentGroupKey,ParentDepartmentGroupKey,DepartmentGroupName": "3,1,Inventory Management"
+    },
+    {
+        "DepartmentGroupKey,ParentDepartmentGroupKey,DepartmentGroupName": "4,1,Manufacturing"
+    },
+    {
+        "DepartmentGroupKey,ParentDepartmentGroupKey,DepartmentGroupName": "5,1,Quality Assurance"
+    },
+    {
+        "DepartmentGroupKey,ParentDepartmentGroupKey,DepartmentGroupName": "6,1,Research and Development"
+    },
+    {
+        "DepartmentGroupKey,ParentDepartmentGroupKey,DepartmentGroupName": "7,1,Sales and Marketing"
+    }
+]

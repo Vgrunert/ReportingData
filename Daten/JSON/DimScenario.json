@@ -1,0 +1,11 @@
+[
+    {
+        "ScenarioKey,ScenarioName": "1,Actual"
+    },
+    {
+        "ScenarioKey,ScenarioName": "2,Budget"
+    },
+    {
+        "ScenarioKey,ScenarioName": "3,Forecast"
+    }
+]

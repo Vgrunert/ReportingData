@@ -1,0 +1,32 @@
+[
+    {
+        "SalesReasonKey,SalesReasonAlternateKey,SalesReasonName,SalesReasonReasonType": "1,1,Price,Other"
+    },
+    {
+        "SalesReasonKey,SalesReasonAlternateKey,SalesReasonName,SalesReasonReasonType": "2,2,On Promotion,Promotion"
+    },
+    {
+        "SalesReasonKey,SalesReasonAlternateKey,SalesReasonName,SalesReasonReasonType": "3,3,Magazine Advertisement,Marketing"
+    },
+    {
+        "SalesReasonKey,SalesReasonAlternateKey,SalesReasonName,SalesReasonReasonType": "4,4,Television  Advertisement,Marketing"
+    },
+    {
+        "SalesReasonKey,SalesReasonAlternateKey,SalesReasonName,SalesReasonReasonType": "5,5,Manufacturer,Other"
+    },
+    {
+        "SalesReasonKey,SalesReasonAlternateKey,SalesReasonName,SalesReasonReasonType": "6,6,Review,Other"
+    },
+    {
+        "SalesReasonKey,SalesReasonAlternateKey,SalesReasonName,SalesReasonReasonType": "7,7,Demo Event,Marketing"
+    },
+    {
+        "SalesReasonKey,SalesReasonAlternateKey,SalesReasonName,SalesReasonReasonType": "8,8,Sponsorship,Marketing"
+    },
+    {
+        "SalesReasonKey,SalesReasonAlternateKey,SalesReasonName,SalesReasonReasonType": "9,9,Quality,Other"
+    },
+    {
+        "SalesReasonKey,SalesReasonAlternateKey,SalesReasonName,SalesReasonReasonType": "10,10,Other,Other"
+    }
+]

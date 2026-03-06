@@ -1,0 +1,317 @@
+[
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "1,AFA,Afghani,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "2,DZD,Algerian Dinar,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "3,ARS,Argentine Peso,\"ARS \"$#,0.00"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "4,AMD,Armenian Dram,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "5,AWG,Aruban Guilder,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "6,AUD,Australian Dollar,\"A\"$#,0.00"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "7,AZM,Azerbaijanian Manat,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "8,BSD,Bahamian Dollar,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "9,BHD,Bahraini Dinar,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "10,THB,Baht,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "11,PAB,Balboa,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "12,BBD,Barbados Dollar,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "13,BEF,Belgian Franc,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "14,VEB,Bolivar,\"Bs \"#,0.00"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "15,BOB,Boliviano,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "16,BRL,Brazilian Real,\"R\"$#,0.00"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "17,BND,Brunei Dollar,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "18,BGN,Bulgarian Lev,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "19,CAD,Canadian Dollar,\"C\"$#,0.00"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "20,GHC,Cedi,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "21,XOF,CFA Franc BCEAO,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "22,CLP,Chilean Peso,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "23,COP,Colombian Peso,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "24,CRC,Costa Rican Colon,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "25,HRK,Croatian Kuna,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "26,CYP,Cyprus Pound,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "27,CZK,Czech Koruna,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "28,DKK,Danish Krone,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "29,DEM,Deutsche Mark,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "30,DOP,Dominican Peso,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "31,VND,Dong,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "32,GRD,Drachma,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "33,EGP,Egyptian Pound,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "34,SVC,El Salvador Colon,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "35,AED,Emirati Dirham,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "36,EUR,Euro,#,0.00 €"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "37,FJD,Fiji Dollar,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "38,HUF,Forint,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "39,FRF,French Franc,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "40,PYG,Guarani,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "41,HKD,Hong Kong Dollar,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "42,ISK,Iceland Krona,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "43,INR,Indian Rupee,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "44,IEP,Irish Pound,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "45,ITL,Italian Lira,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "46,JMD,Jamaican Dollar,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "47,JOD,Jordanian Dinar,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "48,KES,Kenyan Shilling,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "49,EEK,Kroon,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "50,KWD,Kuwaiti Dinar,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "51,AOA,Kwanza,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "52,LVL,Latvian Lats,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "53,LBP,Lebanese Pound,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "54,ALL,Lek,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "55,ROL,Leu,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "56,LTL,Lithuanian Litas,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "57,MYR,Malaysian Ringgit,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "58,MTL,Maltese Lira,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "59,FIM,Markka,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "60,MUR,Mauritius Rupee,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "61,MXN,Mexican Peso,\"Mex\"$#,0.00"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "62,MAD,Moroccan Dirham,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "63,NGN,Naira,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "64,NAD,Namibia Dollar,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "65,NPR,Nepalese Rupee,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "66,ANG,Netherlands Antillian Guilder,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "67,NLG,Netherlands Guilder,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "68,ILS,New Israeli Shekel,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "69,TWD,New Taiwan Dollar,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "70,NZD,New Zealand Dollar,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "71,BTN,Ngultrum,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "72,NOK,Norwegian Krone,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "73,PEN,Nuevo Sol,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "74,OMR,Omani Rial,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "75,PKR,Pakistan Rupee,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "76,PHP,Philippine Peso,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "77,PLZ,Polish Zloty(old),"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "78,PTE,Portuguese Escudo,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "79,GTQ,Quetzal,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "80,ZAR,Rand,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "81,MVR,Rufiyaa,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "82,IDR,Rupiah,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "83,RUB,Russian Ruble,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "84,RUR,Russian Ruble(old),"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "85,SAR,Saudi Riyal,#,0\" SAR\""
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "86,ATS,Shilling,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "87,SGD,Singapore Dollar,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "88,SKK,Slovak Koruna,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "89,ESP,Spanish Peseta,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "90,LKR,Sri Lankan Rupee,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "91,SEK,Swedish Krona,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "92,CHF,Swiss Franc,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "93,BDT,Taka,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "94,SIT,Tolar,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "95,TTD,Trinidad and Tobago Dollar,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "96,TND,Tunisian Dinar,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "97,TRL,Turkish Lira,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "98,GBP,United Kingdom Pound,£#,0.00"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "99,UYU,Uruguayan Peso,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "100,USD,US Dollar,\"US\"$#,0.00"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "101,KRW,Won,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "102,JPY,Yen,¥#,0"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "103,CNY,Yuan Renminbi,\"CNY \"#,0"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "104,ZWD,Zimbabwe Dollar,"
+    },
+    {
+        "CurrencyKey,CurrencyAlternateKey,CurrencyName,FormatString": "105,PLN,Zloty,"
+    }
+]
